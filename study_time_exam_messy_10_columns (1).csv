@@ -1,0 +1,1011 @@
+Student_ID,Student_Name,Gender,Age,Study_Hours,Sleep_Hours,Attendance,Previous_Score,Exam_Marks,Study_Method
+S0496,Kavya Menon,Male,17,8.62,4.61,97.55,34.9,70.7,Mixed
+S0787,Riya Sinha,Female,21,8.2,6.51,56.83,26.54,78.31,Self-study
+S0087,Sahil Khan,Female,21,5.34,4.01,55.22,78.86,43.56,Group study
+S0726,Karan Das,Female,17,2.87,7.83,87.69,28.48,51.81,Online
+S0980,Neha Joshi,Male,20,1.88,8.34,94.4,76.43,140,Mixed
+S0983,Sneha Kumar,Female,23,5.43,4.56,58.09,82.24,49.76,Self-study
+S0617,Sneha Kumar,Male,18,5.4,8.22,51.75,92.2,39.21,Group study
+S0263,Sneha Kumar,Female,19,2.26,4.82,57.82,50.6,48.35,Mixed
+S0894,Isha Mehta,Female,21,5.73,5.4,85.65,87.91,65.02,Group study
+S0384,Rahul Singh,Female,20,2.09,4.82,94.85,85.52,4.02,Mixed
+S0004,Priya Verma,Female,21,5.55,7.19,79.89,84.46,81.1,Online
+S0637,Diya Kapoor,Female,21,3.51,7.79,58.05,73.57,55.38,Mixed
+S0075,Vikram Reddy,Female,18,6.96,8.84,92.7,31.24,74.53,Online
+S0631,Sneha Kumar,Male,18,8.33,8.49,94.0,56.71,90.89,Coaching
+S0296,Priya Verma,Male,21,0.76,9.5,63.6,90.25,-20,Online
+S0933,Vikram Reddy,Male,22,1.11,8.04,53.1,35.82,21.11,Self-study
+S0284,Rahul Singh,Male,24,4.87,4.71,84.57,88.96,73.6,Coaching
+S0125,Ananya Gupta,Male,23,6.91,7.78,81.56,39.82,59.65,Coaching
+S0616,Aditya Rao,Female,23,7.08,5.94,91.43,68.28,82.34,Online
+S0620,Diya Kapoor,Female,17,5.33,5.95,82.5,26.76,54.11,Mixed
+S0786,Vikram Reddy,Male,21,2.3,5.4,82.41,33.01,29.62,Self-study
+S0153,Riya Sinha,Female,21,  ,4.27,56.1,120,86.93,Self-study
+S0023,Aditya Rao,Male,18,5.64,6.69,60.53,45.71,71.56,Coaching
+S0137,Sahil Khan,Male,21,5.9,5.92,54.2,32.04,59.53,Group study
+S0968,Sneha Kumar,Male,21,4.02,7.02,48.24,54.09,36.11,Group study
+S0938,Ananya Gupta,Female,20,5.36,9.49,52.88,70.17,61.07,Mixed
+S0051,Pooja Shah,Female,24,3.02,8.57,90.25,49.71,38.95,Self-study
+S0276,Meera Iyer,Female,23,5.81,9.16,80.73,74.12,62.25,Online
+S0805,Aarav Sharma,Female,18,5.74,8.59,81.29,34.9,61.5,Mixed
+S0952,Rahul Singh,Male,22,4.71,5.06,98.43,34.93,59.39,Mixed
+S0582,Meera Iyer,Male,20,5.47,8.32,48.52,84.26,69.42,Group study
+S0132,Vikram Reddy,Female,23,2.84,6.31,60.4,71.04,45.17,ONLINE 
+S0214,Priya Verma,Male,24,7.6,9.15,66.12,59.45,77.16,Online
+S0598,Riya Sinha,Male,21,4.83,7.53,60.37,56.76,41.27,Mixed
+S0139,Arjun Patel,Male,24,9.63,4.5,56.51,72.43,63.89,Self-study
+S0564,Meera Iyer,Female,19,9.72,5.9,69.42,57.43,86.63,Mixed
+S0561,Rahul Singh,Male,23,5.55,4.41,72.22,42.62,45.02,Mixed
+S0841,Rahul Singh,Male,23,4.59,4.57,46.47,34.04,53.2,Mixed
+S0226,Sneha Kumar,Male,22,3.13,9.02,64.09,30.72,37.94,Group study
+S0645,Kavya Menon,Female,20,6.04,7.9,98.62,84.22,56.16,Self-study
+S0318,Arjun Patel,Female,23,7.17,7.8,71.52,87.68,64.94,Group study
+S0246,Diya Kapoor,Male,22,9.25,5.31,96.55,28.36,87.42,Self-study
+S0700,Rohan Nair,Male,19,6.45,7.07,80.03,88.31,62.25,Coaching
+S0114,Meera Iyer,Male,18,8.82,6.72,65.1,44.2,69.93,Self-study
+S0847,Arjun Patel,Male,18,3.21,8.28,74.39,36.98,,Self-study
+S0987,Isha Mehta,Male,18,1.59,6.55,53.86,58.85,32.65,Mixed
+S0548,Rahul Singh,Male,24,4.73,7.39,66.42,67.94,47.64,Online
+S0358,Arjun Patel,Male,22,6.67,5.3,64.8,81.73,61.87,Group study
+S0474,Pooja Shah,Male,19,5.0,4.01,47.61,42.53,36.46,Self-study
+S0110,Kavya Menon,Female,22,9.35,9.28,66.52,70.94,78.49,Group study
+S0220,Kavya Menon,Male,22,2.13,4.94,54.52,66.78,missing,Mixed
+S0047,Diya Kapoor,Female,22,5.96,5.94,99.12,65.3,120,Group study
+S0010,Arjun Patel,Male,21,8.35,7.62,74.98,48.99,68.83,Self-study
+S0652,Nikhil Bose,Female,24,7.74,5.02,45.05,73.24,82.44,Group study
+S0270,Kavya Menon,,19,8.72,5.76,64.19,79.98,75.84,Mixed
+S0902,Aarav Sharma,Female,17,6.89,6.21,55.34,85.81,49.33,Coaching
+S0799,Rahul Singh,Female,24,8.63,8.81,49.46,45.02,56.33,Online
+S0728,Kavya Menon,Female,23,7.05,9.96,75.27,54.58,88.4,Online
+S0901,Rohan Nair,Male,22,7.67,5.62,47.2,56.28,80.89,Mixed
+S0871,Ananya Gupta,Female,20,8.78,6.7,85.42,54.61,100.0,Coaching
+S0130,Priya Verma,Male,18,5.48,8.61,150,60.09,44.89,Coaching
+S0302,Arjun Patel,Male,24,8.34,5.37,94.44,82.72,66.66,Coaching
+S0895,Neha Joshi,Female,19,9.75,4.24,60.11,78.27,89.04,Mixed
+S0127,Riya Sinha,Female,22,7.36,4.82,65.57,43.29,145,Mixed
+S0711,Isha Mehta,Female,18,35,4.04,89.89,51.88,76.26,Self-study
+S0822,Vikram Reddy,Male,20,6.26,9.41,49.84,59.23,53.38,Coaching
+S0927,Aditya Rao,Female,24,32,8.8,70.73,28.31,60.86,Coaching
+S0528,Isha Mehta,Female,20,3.7,9.0,49.91,31.35,30.17,Coaching
+S0533,Pooja Shah,Male,22,5.09,4.9,55.74,46.09,59.94,Online
+S0370,Arjun Patel,Female,21,7.01,8.91,59.96,76.29,75.09,Online
+S0624,Aarav Sharma,Male,17,5.98,7.49,95.56,41.21,66.39,Group study
+S0753,Aarav Sharma,Female,18,6.72,6.58,82.98,58.3,62.6,Self-study
+S0943,Vikram Reddy,Female,17,6.07,9.95,50.72,65.87,57.4,Self-study
+S0155,Aman Gill,Male,45,4.32,9.97,45.86,86.3,60.08,Online
+S0498,Nikhil Bose,Female,20,6.15,6.04,70.07,54.77,63.8,Self-study
+S0361,Riya Sinha,Male,20,4.91,6.59,60.55,56.94,51.13,Mixed
+S0984,Neha Joshi,Female,20,7.25,9.1,98.63,58.08,56.69,Self-study
+S0259,Priya Verma,Male,21,2.94,4.33,53.37,36.12,48.71,Coaching
+S0108,Priya Verma,Female,17,5.02,9.8,46.74,35.62,67.19,Self-study
+S0604,Sahil Khan,Male,22,1.11,9.76,51.52,26.71,39.38,Mixed
+S0168,Arjun Patel,Female,17,2.87,6.1,63.87,69.61,42.44,Online
+S0320,Aman Gill,Male,24,5.81,9.67,78.22,85.9,65.71,Coaching
+S0049,Aditya Rao,Male,18,5.01,7.29,68.99,45.77,62.81,Mixed
+S0970,Rahul Singh,Male,24,8.58,7.78,,61.69,70.84,Coaching
+S0467,Isha Mehta,Female,22,9.52,9.8,56.79,56.65,,Online
+S0513,Neha Joshi,Male,23,four,7.72,82.26,90.43,71.45,Group study
+S0705,Vikram Reddy,Female,24,2.08,6.2,94.96,79.8,44.5,Self-study
+S0795,Sneha Kumar,Male,17,5.07,7.6,83.25,68.48,62.52,Coaching
+S0058,Aman Gill,Male,19,9.24,8.09,94.73,67.53,83.08,Online
+S0437,Rahul Singh,Female,24,5.3,9.23,61.87,86.31,71.81,Mixed
+S0481,Kavya Menon,Male,23,8.37,5.94,61.79,69.51,71.81,Coaching
+S0776,Kavya Menon,Male,24,3.07,5.13,94.43,82.89,43.88,Group study
+S0760,Diya Kapoor,Male,21,5.76,6.22,59.8,72.56,51.14,Online
+S0333,Arjun Patel,Female,23,-8,6.11,99.33,73.23,72.55,Coaching
+S0668,Ananya Gupta,Female,20,5.38,8.2,47.69,85.9,64.14,Coaching
+S0599,Neha Joshi,Female,24,8.42,7.76,83.86,44.8,82.96,Coaching
+S0782,Isha Mehta,Male,22,1.89,9.43,55.47,29.52,33.62,Group study
+S0178,Aarav Sharma,Male,22,9.33,8.24,71.16,25.78,69.95,Group study
+S0463,Vikram Reddy,Female,22,6.29,8.4,69.53,79.88,43.19,Self-study
+S0101,Karan Das,Male,17,30,9.24,94.26,50.81,80.05,Self-study
+S0817,Neha Joshi,Female,21,7.76,9.59,96.51,77.18,80.45,Mixed
+S0464,Aman Gill,Male,18,9.75,9.56,51.68,53.65,69.96,Group study
+S0959,Kavya Menon,Female,22,4.31,8.52,61.02,58.21,46.44,Online
+S0260,Aman Gill,Male,17,5.88,8.37,50.81,44.49,44.42,Online
+S0716,Rohan Nair,Female,19,2.45,6.94,95.71,60.39,33.0,Mixed
+S0922,Ananya Gupta,Male,24,0.68,4.11,63.85,48.35,10.42,Self-study
+S0442,Nikhil Bose,Female,18,8.74,5.63,99.71,35.63,71.49,Coaching
+S0773,Karan Das,Female,24,9.38,8.62,62.71,93.91,75.24,Online
+S0085,Sahil Khan,FEMALE,22,1.45,4.33,95.33,62.51,38.61,Group study
+S0503,Sneha Kumar,Female,23,6.32,9.25,55.8,45.32,65.59,Online
+S0840,Nikhil Bose,Female,24,9.62,8.7,64.4,57.62,70.42,Self-study
+S0830,Pooja Shah,Female,17,1.07,8.32,96.1,55.26,25.64,Coaching
+S0694,Karan Das,Male,20,6.37,5.01,75.35,63.13,68.33,Mixed
+S0649,Pooja Shah,Female,22,0.97,8.28,82.4,88.3,39.88,Online
+S0064,Rohan Nair,Male,22,6.93,5.29,60.29,76.92,60.79,Mixed
+S0400,Diya Kapoor,Male,17,4.65,6.85,84.22,25.17,41.01,Online
+S0133,Meera Iyer,Female,17,8.11,5.4,78.63,83.8,78.34,Group study
+S0688,Neha Joshi,Female,24,6.65,5.35,51.42,90.42,68.73,Coaching
+S0601,Arjun Patel,Female,18,0.67,4.56,56.05,-10,25.05,Online
+S0818,Sneha Kumar,Male,23,9.79,8.17,77.47,79.32,100.0,Self-study
+S0475,Meera Iyer,Female,17,3.69,8.02,75.17,79.63,62.55,Group study
+S0855,Meera Iyer,Male,19,unknown,6.4,80.48,82.53,86.36,Online
+S0375,Pooja Shah,Male,23,6.66,7.53,49.2,83.97,50.54,Self-study
+S0958,Neha Joshi,Female,18,7.99,7.24,90.93,40.25,57.9,Coaching
+S0997,Pooja Shah,Male,22,3.25,9.61,72.5,72.63,55.61,Coaching
+S0989,Vikram Reddy,Female,18,4.3,7.22,86.59,64.81,54.29,Mixed
+S0385,Meera Iyer,Male,,7.49,4.97,84.07,33.42,71.75,Group study
+S0404,Rahul Singh,Male,18,5.24,8.94,64.09,28.53,61.66,Coaching
+S0647,Nikhil Bose,Female,22,2.76,8.01,81.91,63.35,29.06,Coaching
+S0553,Priya Verma,Male,18,4.79,4.32,46.6,48.13,40.04,Group study
+S0065,Diya Kapoor,Male,21,6.47,7.52,84.75,30.91,60.68,Online
+S0209,Isha Mehta,Male,21,4.26,4.57,69.71,71.33,28.94,Coaching
+S0499,Ananya Gupta,Female,22,3.5,5.91,49.07,84.57,38.65,Online
+S0859,Aarav Sharma,Male,22,9.94,5.79,79.25,65.9,87.44,Group study
+S0082,Aditya Rao,Female,19,2.71,8.65,52.4,36.59,48.01,Self-study
+S0611,Riya Sinha,Female,18,3.14,4.13,67.33,33.12,40.5,Coaching
+S0825,Pooja Shah,Male,17,8.06,6.64,95.28,91.48,73.33,Self-study
+S0116,Meera Iyer,Male,22,7.76,8.86,53.98,93.89,65.16,Group study
+S0960,Karan Das,Male,24,7.34,7.1,86.17,68.32,82.13,Group study
+S0692,Nikhil Bose,Female,17,8.82,6.69,98.49,61.93,94.12,Coaching
+S0595,Karan Das,Female,18,7.92,7.11,57.47,71.74,58.68,Group study
+S0935,Vikram Reddy,Female,21,6.0,8.78,80.3,77.27,76.04,Online
+S0231,Sahil Khan,Female,23,7.5,6.51,80.42,69.35,76.45,Mixed
+S0654,Rohan Nair,Male,21,8.29,7.92,45.47,78.5,71.43,Group study
+S0934,Ananya Gupta,Male,24,8.27,7.83,72.74,64.93,79.12,Group study
+S0273,Sneha Kumar,Male,23,5.15,7.08,62.16,66.74,43.18,Online
+S0428,Meera Iyer,Male,24,1.51,7.65,84.65,80.0,33.11,Mixed
+S0376,Aditya Rao,Male,20,3.62,4.96,46.31,42.64,52.78,Mixed
+S0978,Rohan Nair,Female,24,7.89,9.94,60.26,76.64,47.76,Group study
+S0699,Sahil Khan,Male,17,3.13,9.29,90.33,57.92,29.64,Group study
+S0727,Isha Mehta,Female,17,9.26,6.18,46.57,75.62,69.5,Online
+S0672,Isha Mehta,Female,18,1.59,8.64,57.96,36.6,45.67,Coaching
+S0007,Rahul Singh,Male,19,1.96,4.46,93.94,77.53,41.34,Coaching
+S0173,Aarav Sharma,Female,17,6.84,6.0,83.93,93.96,74.39,Group study
+S0550,Meera Iyer,Female,21,2.5,5.93,96.42,77.74,30.55,Self-study
+S0373,Pooja Shah,Female,20,8.92,8.56,84.4,60.16,77.53,Group study
+S0594,Arjun Patel,Female,23,5.04,6.66,64.96,30.7,56.99,Mixed
+S0041,Pooja Shah,Female,22,1.65,6.68,47.25,46.04,11.34,Coaching
+S0306,Meera Iyer,Female,17,8.33,4.1,92.69,91.09,67.56,Online
+S0725,Isha Mehta,Female,20,7.62,5.27,56.06,44.29,58.08,Mixed
+S0308,Isha Mehta,Male,22,4.36,4.0,59.44,39.23,23.53,Group study
+S0018,Meera Iyer,Female,21,7.07,4.91,,41.86,64.93,Mixed
+S0865,Riya Sinha,Male,21,7.75,9.36,72.68,80.03,71.96,Group study
+S0994,Meera Iyer,Female,18,8.05,9.84,84.52,89.47,84.76,Self-study
+S0192,Nikhil Bose,Male,24,1.01,4.29,82.38,28.85,20.16,Coaching
+S0527,Nikhil Bose,Male,17,6.76,9.45,74.04,61.72,55.7,Group study
+S0519,Priya Verma,Male,22,1.73,8.4,52.98,43.08,36.76,Mixed
+S0754,Rahul Singh,Female,24,5.39,8.49,50.94,80.82,46.86,Mixed
+S0772,Sneha Kumar,Female,20,1.34,8.15,70.45,72.87,41.15,Online
+S0438,Sahil Khan,Female,19,6.55,six,96.43,59.2,77.32,Coaching
+S0019,Priya Verma,Female,24,8.8,4.18,75.36,41.82,73.61,Mixed
+S0033,Karan Das,Female,23,6.73,6.78,76.08,54.67,53.81,Online
+S0054,Aman Gill,Female,18,unknown,6.18,74.7,64.77,86.88,Mixed
+S0566,Sneha Kumar,Male,23,8.86,6.37,74.77,77.34,84.08,Self-study
+S0422,Ananya Gupta,Female,19,2.63,9.06,51.73,86.68,30.1,Online
+S0200,Aditya Rao,Female,18,9.76,9.2,82.05,87.95,100.0,Group study
+S0823,Diya Kapoor,Female,18,6.91,5.82,79.2,34.47,51.5,Group study
+S0909,Sahil Khan,Male,21,five,8.05,90.17,90.61,73.81,Coaching
+S0454,Rahul Singh,Male,23,3.03,9.64,68.54,77.73,41.33,Group study
+S0905,Riya Sinha,Female,21,8.58,8.81,68.36,72.07,70.44,Group study
+S0079,Diya Kapoor,Female,22,1.82,6.23,99.36,88.2,39.54,Group study
+S0718,Aditya Rao,Female,22,3.64,5.74,52.96,67.24,34.46,Online
+S0570,Diya Kapoor,Female,21,7.74,9.41,50.29,36.26,71.19,Coaching
+S0043,Pooja Shah,Male,23,7.95,6.61,49.25,37.73,42.36,Group study
+S0237,Pooja Shah,Male,20,2.69,5.88,96.75,75.87,38.88,Online
+S0676,Rahul Singh,Male,18,1.51,9.2,47.37,43.1,,Online
+S0028,Kavya Menon,Male,19,7.11,6.64,69.1,78.56,54.39,Mixed
+S0587,Rohan Nair,Male,23,0.56,6.43,74.8,71.61,28.96,Online
+S0919,Meera Iyer,Female,24,4.49,7.19,63.17,55.49,46.28,Self-study
+S0026,Aditya Rao,Female,24,0.96,8.25,91.16,36.62,21.34,Group study
+S0593,Rahul Singh,Male,21,7.97,9.71,51.81,86.78,81.5,Online
+S0908,Sahil Khan,Female,19,7.3,32,99.52,83.79,67.72,Self-study
+S0746,Aarav Sharma,Male,18,1.13,8.77,0,59.95,32.53,Mixed
+S0345,Priya Verma,Female,21,4.62,7.76,79.68,,44.25,Coaching
+S0747,Meera Iyer,Male,24,N/A,9.07,64.87,49.97,18.65,Mixed
+S0288,Neha Joshi,Male,19,8.36,4.79,77.79,83.6,81.86,Group study
+S0215,Pooja Shah,Male,19,7.38,7.44,96.05,80.77,61.83,Coaching
+S0135,Rahul Singh,Male,24,5.44,8.75,47.1,61.98,52.97,Group study
+S0106,Aman Gill,Female,21,7.22,9.76,93.22,57.76,66.11,Group study
+S0008,Aarav Sharma,Female,22,,4.69,62.45,54.04,79.78,Self-study
+S0126,Sahil Khan,Male,24,7.0,5.18,46.5,63.57,81.24,Self-study
+S0562,Riya Sinha,Male,17,8.93,4.31,69.88,94.2,,Mixed
+S0417,Arjun Patel,Male,24,6.43,6.36,99.48,79.14,59.33,Mixed
+S0764,Pooja Shah,Male,21,7.07,5.07,77.57,57.62,57.29,Coaching
+S0367,Aman Gill,Female,18,7.95,5.64,47.85,47.48,43.73,Group study
+S0693,Aditya Rao,Male,19,-0.5,5.06,45.55,46.98,39.64,Online
+S0836,Neha Joshi,Female,19,1.02,8.27,70.46,29.11,30.19,Online
+S0789,Isha Mehta,Female,24,4.98,7.59,83.56,32.53,63.78,Group study
+S0567,Vikram Reddy,Male,18,3-4,4.56,48.36,68.97,40.69,Coaching
+S0549,Rahul Singh,Male,24,50,8.1,62.64,31.06,32.88,Online
+S0200,Aditya Rao,Female,18,9.76,9.2,82.05,87.95,100.0,Group study
+S0542,Priya Verma,Female,21,2.74,6.65,56.22,82.35,30.52,Coaching
+S0419,Karan Das,Male,17,9.68,8.11,78.46,34.64,67.77,Self-study
+S0300,Diya Kapoor,Male,19,3.44,6.44,59.07,62.4,29.53,Self-study
+S0120,Sahil Khan,Female,19,5.07,6.8,59.54,91.05,46.79,Group study
+S0460,Priya Verma,Female,18,8.41,8.57,71.83,58.06,67.07,Coaching
+S0081,Karan Das,Female,18,9.15,6.37,70.82,67.68,78.51,Self-study
+S0501,Aman Gill,Male,22,4.82,7.95,67.39,86.58,61.2,Mixed
+S0272,Diya Kapoor,Male,22,3.36,8.37,50.11,94.58,40.46,Coaching
+S0479,Diya Kapoor,Male,23,1.94,8.61,74.54,77.75,33.89,Mixed
+S0225,Priya Verma,Male,19,NaN,5.67,50.61,45.45,87.29,Online
+S0212,Nikhil Bose,Female,17,7.33,5.73,91.52,93.41,69.93,Mixed
+S0554,Sneha Kumar,Male,18,5.29,6.77,79.89,51.77,69.39,Mixed
+S0397,Rahul Singh,Female,18,5.53,6.37,89.96,34.47,47.27,Mixed
+S0435,Rahul Singh,Female,21,9.8,9.15,66.56,90.95,81.73,Online
+S0607,Ananya Gupta,Female,23,7.8,9.36,86.87,26.95,73.16,Coaching
+S0268,Kavya Menon,Female,17,1.54,5.13,78.47,35.29,19.82,Mixed
+S0801,Vikram Reddy,Female,17,2 hours approx,7.91,68.31,25.63,28.78,Self-study
+S0912,Arjun Patel,Female,24,2.42,4.87,85.88,82.9,43.31,Online
+S0349,Arjun Patel,Male,19,8.69,9.12,84.26,39.26,77.14,Mixed
+S0873,Pooja Shah,Male,23,45,4.51,96.88,51.1,32.76,Self-study
+S0756,Riya Sinha,Male,19,5.02,4.04,88.57,92.81,62.78,Self-study
+S0301,Isha Mehta,Male,17,3.69,4.67,62.93,87.64,35.77,Mixed
+S0434,Nikhil Bose,Male,23,7.73,9.07,69.74,63.82,83.96,Mixed
+S0482,Meera Iyer,Female,21,4.15,5.29,85.83,69.84,46.88,Group study
+S0387,Vikram Reddy,Female,22,,5.39,91.95,90.81,64.11,Group study
+S0016,Aditya Rao,Female,21,9.29,9.05,64.66,28.05,75.89,Self-study
+S0826,Arjun Patel,Female,21,9.28,7.78,84.21,45.53,81.87,Coaching
+S0899,Diya Kapoor,Male,20,7.23,7.07,60.28,82.75,83.25,Coaching
+S0878,Sahil Khan,Male,21,0.69,9.72,59.53,62.82,40.25,Group study
+S0102,Vikram Reddy,Male,19,8.66,9.11,97.6,73.86,90.37,Mixed
+S0439,Arjun Patel,Female,17,8.09,4.13,86.12,47.02,88.38,Self-study
+S0757,Aditya Rao,Male,17,8.22,6.62,53.12,90.22,70.14,Group study
+S0803,Ananya Gupta,Male,21,4.48,6.13,77.84,51.78,43.62,Mixed
+S0421,Karan Das,Male,19,2.35,8.72,96.96,50.61,55.04,Self-study
+S0289,Sneha Kumar,Female,19,2.87,5.86,89.23,83.47,38.9,Group study
+S0945,Pooja Shah,Female,17,-6,4.96,89.09,38.87,37.52,Self-study
+S0031,Arjun Patel,Male,24,1.26,6.91,83.42,30.71,27.12,Self-study
+S0883,Isha Mehta,Male,24,8.3,6.09,61.62,34.9,74.7,Self-study
+S0965,Vikram Reddy,Male,18,5.9,9.14,88.51,72.11,39.02,Group study
+S0144,Aarav Sharma,Male,20,8.37,6.2,49.58,38.74,79.33,Self-study
+S0267,Arjun Patel,Female,22,9.85,8.45,90.47,34.19,77.87,Online
+S0254,Vikram Reddy,Female,24,8.98,4.32,55.94,75.69,71.82,Self-study
+S0634,Pooja Shah,Female,17,9.09,7.82,unknown,91.68,54.03,Coaching
+S0820,Rahul Singh,Male,21,9.3,6.59,49.52,58.52,65.19,Self-study
+S0575,Rohan Nair,Male,22,1.96,9.61,95.53,73.92,49.24,Coaching
+S0175,Aditya Rao,Male,18,4.42,4.42,91.4,63.17,68.05,Coaching
+S0719,Priya Verma,Female,23,9.67,4.83,65.03,84.21,86.55,Online
+S0888,Sahil Khan,Female,23,9.94,6.68,57.58,61.25,86.58,Group study
+S0293,Vikram Reddy,Male,N/A,9.16,9.93,97.47,52.1,71.78,Online
+S0848,Riya Sinha,Female,23,8.27,5.62,49.45,27.25,80.51,Self-study
+S0802,Sneha Kumar,Female,19,4.75,5.32,95%,47.22,56.32,Online
+S0456,Arjun Patel,Female,23,8.22,8.47,53.23,79.07,84.52,Online
+S0683,Rahul Singh,Female,21,2.12,7.82,89.23,35.5,25.3,Coaching
+S0613,Meera Iyer,Male,17,3.06,7.7,45.04,66.08,49.77,Self-study
+S0327,Ananya Gupta,Female,19,3.91,9.69,53.8,81.32,47.17,Online
+S0713,Meera Iyer,Male,22,4.58,7.09,72.63,37.29,26.98,Self-study
+S0600,Rahul Singh,Male,20,3.78,4.97,45.9,40.54,125,Mixed
+S0572,Meera Iyer,Male,23,3.25,7.06,84.98,68.81,39.79,Group study
+S0779,Priya Verma,Male,22,9.72,4.92,94.09,52.59,100.0,Mixed
+S0720,Nikhil Bose,Female,19,7.77,40,75.67,66.08,63.57,Online
+S0470,Sahil Khan,Male,20,3.17,7.95,87.78,93.57,63.7,Group study
+S0494,Vikram Reddy,Female,17,7.41,8.73,46.62,57.12,63.58,Self-study
+S0369,Karan Das,Male,23,6hours,4.52,53.76,72.79,74.1,Online
+S0858,Aman Gill,Female,18,2.49,7.53,120,71.9,26.24,Group study
+S0344,Sahil Khan,female,20,8.97,,63.17,61.76,57.52,Self-study
+S0351,Aditya Rao,Female,17,72,8.17,46.12,50.09,52.39,Self-study
+S0736,Priya Verma,Female,19,3.44,4.83,73.46,92.38,33.15,Mixed
+S0768,Meera Iyer,Female,22,8.67,7.01,57.74,72.24,68.82,Self-study
+S0703,Priya Verma,Male,23,4.4,7.64,59.31,67.2,54.4,Group study
+S0715,Pooja Shah,Female,23,2.55,4.7,95.64,78.77,52.12,Online
+S0581,Rohan Nair,Male,20,5.84,8.35,48.61,72.86,NA,Mixed
+S0136,Ananya Gupta,Female,22,,9.11,90.52,49.62,36.04,Self-study
+S0800,Rohan Nair,Male,20,6.67,4.42,60.68,43.68,63.63,Mixed
+S0770,Diya Kapoor,Male,18,9.87,5.93,95.99,69.53,72.08,Coaching
+S0248,Meera Iyer,Female,20,6.16,8.25,64.02,57.94,50.27,Mixed
+S0309,Aman Gill,Female,20,3.92,8.9,55.15,93.0,62.98,Coaching
+S0295,Riya Sinha,Male,24,3.73,7.52,48.71,43.19,55.62,Online
+S0932,Nikhil Bose,Female,23,6.66,8.91,64.42,28.47,47.88,Online
+S0378,Meera Iyer,Male,17,3.74,5.86,98.5,75.02,54.94,Online
+S0964,Rohan Nair,Female,18,8.38,6.26,85.8,46.12,70.66,Coaching
+S0704,Aarav Sharma,Female,20,5.59,7.89,77.6,84.22,55.62,Group study
+S0669,Vikram Reddy,Female,22,1.15,4.45,60.84,84.83,33.35,Mixed
+S0748,Aarav Sharma,Female,18,4.2,4.27,47.99,61.02,58.34,Online
+S0619,Aman Gill,Female,24,4.27,7.03,79.48,36.59,-1,Coaching
+S0769,Aarav Sharma,Male,21,2.42,9.17,98.02,39.69,37.73,Coaching
+S0147,Rahul Singh,Male,21,7.13,7.39,79.15,70.26,52.06,Mixed
+S0750,Diya Kapoor,Female,24,6.85,4.56,45.74,90.79,74.73,Group study
+S0806,Arjun Patel,Male,24,1.85,6.73,56.18,35.6,40.04,Coaching
+S0850,Meera Iyer,Male,21,7.31,7.9,63.86,64.18,60.22,Mixed
+S0540,Kavya Menon,Male,21,0.82,6.93,93.55,82.68,37.07,Online
+S0141,Pooja Shah,Male,21,7.12,7.17,69.89,84.14,61.64,Self-study
+S0893,Arjun Patel,Male,18,3.63,5.19,64.6,83.11,40.52,Self-study
+S0478,Arjun Patel,Male,17,5.47,6.31,97.24,88.87,72.88,Self-study
+S0371,Arjun Patel,Female,17,3.98,6.19,98.68,82.82,56.58,Online
+S0974,Nikhil Bose,Female,22,3.76,8.42,67.88,29.71,42.38,Online
+S0502,Karan Das,Male,22,7.97,4.19,89.36,71.56,84.02,Group study
+S0027,Kavya Menon,Male,24,8.2,8.12,99.59,53.36,74.86,Online
+S0156,Rahul Singh,Male,19,4.57,30,81.45,64.05,50.08,Online
+S0881,Rahul Singh,Female,20,0.97,9.43,84.55,46.91,21.92,Mixed
+S0391,Nikhil Bose,Female,18,4.56,28,87.34,64.73,,Group study
+S0655,Kavya Menon,Male,20,0.86,8.53,55.13,77.73,36.67,Mixed
+S0678,Priya Verma,Female,21,2.32,4.51,69.53,48.83,25.08,Group study
+S0357,Priya Verma,Female,22,9.79,9.23,79.51,73.79,89.32,Mixed
+S0390,Isha Mehta,Male,24,9.16,9.7,74.77,49.49,77.27,Online
+S0585,Nikhil Bose,Female,18,-4,9.42,52.07,83.11,72.62,Group study
+S0100,Sneha Kumar,Male,24,0.83,4.86,88.76,59.44,26.82,Coaching
+S0374,Sahil Khan,Male,20,6.54,8.79,88.07,54.51,66.09,Mixed
+S0819,Vikram Reddy,Male,19,-10,5.95,63.91,71.53,70.33,Group study
+S0167,Priya Verma,Male,20,4.76,6.04,55.64,78.56,64.82,Online
+S0584,Pooja Shah,Female,17,8.48,9.18,48.42,70.25,67.36,Online
+S0024,Vikram Reddy,Female,21,8.17,6.37,85.21,36.27,76.44,Self-study
+S0633,Rahul Singh,Female,23,6.93,5.72,76.32,79.98,77.11,Group study
+S0205,Meera Iyer,Female,19,3.14,8.97,92.62,32.49,43.6,Online
+S0034,Aarav Sharma,Female,19,6.85,4.18,79.97,27.25,52.75,Coaching
+S0050,Arjun Patel,Female,21,0.65,4.76,87.74,28.21,22.11,Self-study
+S0559,Isha Mehta,Male,24,9.87,9.49,96.35,38.46,86.35,Coaching
+S0702,Rahul Singh,Female,20,1.64,4.7,46.17,75.85,30.33,Group study
+S0629,Ananya Gupta,Male,24,6.48,4.02,62.37,54.5,53.93,Group study
+S0939,Isha Mehta,Female,17,3.08,5.93,95.66,90.21,51.5,Group study
+S0815,Arjun Patel,Female,23,4.37,5.83,54.55,59.32,56.87,Group study
+S0010,Arjun Patel,Male,21,8.35,7.62,74.98,48.99,68.83,Self-study
+S0011,Neha Joshi,,17,3.74,8.14,92.82,43.75,29.56,Self-study
+S0080,Rahul Singh,Female,18,9.46,5.47,45.72,26.69,51.34,Online
+S0571,Neha Joshi,Female,19,1.0,7.04,88.41,91.09,34.62,Coaching
+S0790,Kavya Menon,Female,17,5.58,4.81,81.41,91.5,N/A,Coaching
+S0119,Aarav Sharma,Male,20,3.84,7.34,54.11,74.63,40.33,Mixed
+S0523,Priya Verma,Female,18,6.37,4.98,93.17,63.43,69.32,Mixed
+S0235,Sahil Khan,Male,22,9.59,5.8,81.89,40.99,74.09,Online
+S0514,Karan Das,Female,21,6.25,6.28,96.3,38.83,37.47,Mixed
+S0537,Vikram Reddy,Female,20,6.68,7.55,84.22,unknown,69.95,Online
+S0290,Riya Sinha,Female,19,4.49,8.23,91.22,91.2,60.81,Online
+S0217,Nikhil Bose,Male,19,6.93,6.5,48.48,-5,60.89,Group study
+S0050,Arjun Patel,Female,21,0.65,4.76,87.74,28.21,22.11,Self-study
+S0690,Kavya Menon,Female,24,5.54,5.01,,62.49,42.98,Mixed
+S0665,Kavya Menon,Male,17,6.34,9.9,86.28,105,61.12,Online
+S0886,Ananya Gupta,Female,24,9.26,9.96,89.23,57.32,74.91,Self-study
+S0400,Diya Kapoor,Male,17,4.65,6.85,84.22,25.17,41.01,Online
+S0603,Ananya Gupta,Male,22,26,5.48,55.0,47.33,50.25,Self-study
+S0145,Aditya Rao,Female,19,3.9,6.67,85.84,81.02,49.18,Online
+S0462,Vikram Reddy,Female,17,4.85,7.47,89.71,35.51,60.79,MIXED
+S0679,Kavya Menon,Female,22,6.88,9.74,82.25,67.75,81.82,Self-study
+S0777,Neha Joshi,Male,23,2.44,6.75,97.48,55.38,59.47,Self-study
+S0334,Sneha Kumar,Male,20,7.57,8.01,85.26,66.62,,Group study
+S0113,Aditya Rao,Male,22,3.95,4.95,57.15,50.0,60.05,Self-study
+S0412,Riya Sinha,Female,18,0.72,4.11,85.42,37.06,12.69,Mixed
+S0543,Diya Kapoor,Male,20,1.84,4.14,57.72,74.61,101,Coaching
+S0675,Neha Joshi,Female,24,eight hours,4.4,96.49,43.27,28.0,Mixed
+S0657,Ananya Gupta,Female,18,40,8.13,98.99,25.73,108,Mixed
+S0339,Diya Kapoor,Female,-4,0.97,7.98,70.86,44.31,0.84,Coaching
+S0583,Sahil Khan,Female,18,6.84,8.57,59.66,88.63,57.82,Coaching
+S0929,Sneha Kumar,Female,20,2.0,9.61,64.8,41.52,26.58,Self-study
+S0638,Priya Verma,Female,22,0.55,5.78,72.15,48.54,not available,Online
+S0898,Meera Iyer,Male,19,2.93,8.88,51.67,30.02,33.1,Online
+S0352,Rohan Nair,Female,24,2.74,7.39,76.21,30.82,38.04,
+S0667,Riya Sinha,Male,24,2.71,8.52,98.84,57.45,39.72,Coaching
+S0999,Aarav Sharma,Male,21,N/A,8.99,60.28,80.81,unknown,Online
+S0398,Sneha Kumar,Female,17,3.96,4.41,92.07,83.39,61.03,Coaching
+S0408,Priya Verma,Female,18,7.76,9.58,75.84,86.81,71.58,Self-study
+S0612,Aman Gill,Female,17,6.25,5.79,88.61,33.32,74.79,Online
+S0323,Diya Kapoor,Male,24,9.73,5.8,98.96,34.56,86.92,Coaching
+S0556,Isha Mehta,Male,21,5.13,4.28,76.37,60.34,58.48,Mixed
+S0426,Pooja Shah,Female,21,4.26,6.97,81.37,86.81,63.44,Group study
+S0846,Kavya Menon,Female,18,5.85,8.38,61.45,47.18,55.58,Coaching
+S0184,Priya Verma,Female,20,1.18,4.9,83.39,25.01,17.41,Mixed
+S0368,Priya Verma,Male,22,7.37,5.2,65.19,47.18,59.65,Group study
+S0452,Arjun Patel,Female,19,7.06,8.45,68.36,42.08,60.87,Coaching
+S0343,Riya Sinha,Female,23,4.84,4.69,70.02,92.05,53.53,Coaching
+S0307,Sneha Kumar,other,19,3.3,6.34,59.22,55.01,39.15,Mixed
+S0218,Aman Gill,Female,23,7.63,5.97,73.6,38.18,74.33,Group study
+S0436,Rahul Singh,Female,18,4.73,4.67,46.58,76.24,46.21,Self-study
+S0038,Diya Kapoor,Female,23,5.07,5.09,62.67,84.19,44.54,Self-study
+S0314,Aditya Rao,Male,17,9.76,4.59,93.3,37.3,100.0,Coaching
+S0577,Aditya Rao,Male,20,2.51,6.47,69.85,58.95,50.54,Self-study
+S0189,Rahul Singh,Male,24,-1.5,9.17,90.18,28.37,63.84,Coaching
+S0469,Aman Gill,Male,20,9.63,8.73,86.91,85.69,78.45,Online
+S0037,Diya Kapoor,Female,22,N/A,5.94,55.43,46.37,91.86,Self-study
+S0687,Rahul Singh,Female,22,1.84,4.98,67.45,61.91,28.39,Coaching
+S0589,Rohan Nair,Male,19,5.12,5.82,67.06,57.02,40.73,Mixed
+S0862,Meera Iyer,Female,21,2.05,8.46,47.66,29.31,37.03,Online
+S0516,Kavya Menon,Male,20,0.62,9.79,82.73,59.44,24.3,Mixed
+S0466,Rahul Singh,Male,19,6.69,4.99,eighty,59.91,50.52,Online
+S0234,Meera Iyer,Male,17,5.6,9.36,54.85,44.23,56.24,Coaching
+S0510,Rahul Singh,Male,21,2.72,7.13,80.55,78.99,41.14,Coaching
+S0781,Aman Gill,Male,22,7.02,5.79,50.78,26.46,55.93,Self-study
+S0829,Arjun Patel,Male,19,1.49,8.62,89.74,71.29,38.35,Mixed
+S0712,Rahul Singh,Male,19,1.63,8.18,46.37,56.68,39.5,Online
+S0066,Arjun Patel,Male,24,2.4,8.92,70.57,79.58,-15,Mixed
+S0406,Karan Das,Female,18,5.76,5.07,83.54,79.69,66.52,Group study
+S0164,Sneha Kumar,Male,22,4.55,4.09,46.66,48.74,37.21,Online
+S0264,Sahil Khan,Male,18,0.99,5.29,92.08,68.55,35.66,Self-study
+S0500,Priya Verma,Male,19,9.12,5.44,94.63,65.89,78.99,Group study
+S0685,Kavya Menon,Female,23,5.63,5.82,87.7,78.92,74.62,Mixed
+S0236,Ananya Gupta,Female,21,2.08,8.97,95.18,52.42,36.64,Self-study
+S0176,Arjun Patel,Female,18,5.25,4.22,62.52,59.23,65.72,Group study
+S0729,Riya Sinha,Male,23,,6.81,65.55,,69.9,Online
+S0490,Sahil Khan,Female,19,6.11,7.56,72.62,78.7,67.3,Mixed
+S0072,Nikhil Bose,Female,23,4.72,4.22,47.24,48.29,48.56,Online
+S0500,Priya Verma,Male,19,9.12,5.44,94.63,65.89,78.99,Group study
+S0090,Arjun Patel,Female,24,5.42,8.82,92.17,89.57,68.96,Coaching
+S0118,Rohan Nair,Male,20,48,9.71,72.43,47.98,36.81,Online
+S0322,Rohan Nair,Male,21,6.38,8.66,83.56,55.77,46.12,Coaching
+S0626,Sneha Kumar,Male,22,3.01,N/A,76.48,31.67,47.33,Coaching
+S0963,Priya Verma,Male,21,,4.23,98.49,28.5,69.66,Group study
+S0568,Rahul Singh,Male,22,2.97,4.39,73.53,54.99,42.53,Mixed
+S0062,Vikram Reddy,Male,19,9.61,N/A,58.48,33.22,85.07,Self-study
+S0707,Ananya Gupta,Female,23,3.54,7.33,71.54,69.57,38.82,Self-study
+S0187,Vikram Reddy,Female,24,5.35,6.81,66.4,34.92,49.06,unknown
+S0767,Priya Verma,Female,23,6.54,,54.81,77.32,77.23,Mixed
+S0402,Ananya Gupta,Female,22,7.95,9.48,59.52,61.9,65.95,Coaching
+S0233,Rohan Nair,f,20,1.44,4.69,66.83,80.55,42.3,Coaching
+S0495,Meera Iyer,Female,22,29,7.51,67.99,94.4,88.63,Coaching
+S0073,Pooja Shah,Male,21,8.01,8.83,54.17,78.91,79.8,Self-study
+S0465,Rohan Nair,Female,22,2.71,5.33,82.98,81.93,42.95,Group study
+S0271,Rohan Nair,Male,22,7.8,4.07,54.46,40.67,63.44,Group study
+S0112,Isha Mehta,Male,19,4.88,8.11,63.49,94.71,65.86,Self-study
+S0457,Neha Joshi,Female,20,5.57,4.77,54.23,88.91,46.47,Coaching
+S0852,Aditya Rao,Female,18,7.43,4.1,78.41,50.21,74.17,Mixed
+S0936,Karan Das,Male,21,7.9,7.78,92.98,92.66,58.31,Coaching
+S0227,Diya Kapoor,Female,23,0.63,8.46,67.48,81.88,33.75,Group study
+S0330,Karan Das,Female,22,9.08,9.8,46.07,59.6,62.27,Online
+S0597,Rohan Nair,Male,22,8.33,6.3,68.6,66.34,78.06,Online
+S0813,Nikhil Bose,Male,22,6.98,4.03,95.45,84.78,68.29,Group study
+S0196,Vikram Reddy,Male ,20,7.79,7.35,53.62,52.39,73.33,Self-study
+S0337,Aditya Rao,Female,19,3.14,4.03,94.98,68.32,47.23,Online
+S0492,Kavya Menon,Male,23,9.14,9.71,88.21,86.46,83.64,Mixed
+S0771,Karan Das,Male,24,2.81,9.77,46.03,95.0,,Self-study
+S0029,Diya Kapoor,Male,24,3.03,9.29,77.12,58.42,absent,Group study
+S0794,Aman Gill,Female,19,7.66,6.1,96.97,72.47,69.29,Mixed
+S0671,Riya Sinha,Male,17,9.21,8.84,92.39,25.1,71.28,Online
+S0827,Aditya Rao,Male,20,5.81,9.34,97.53,90.27,84.38,Group study
+S0138,Aditya Rao,Female,20,9.24,9.69,91.26,36.11,60.54,Group study
+S0975,Neha Joshi,Male,18,1.14,4.04,75.71,85.02,30.48,Coaching
+S0755,Karan Das,Male,19,5.51,7.16,71.7,50.61,43.2,Coaching
+S0520,Karan Das,Female,17,4.07,7.02,59.81,67.71,63.79,Self-study
+S0394,Isha Mehta,Male,18,4.86,5.95,54.77,33.9,51.13,Group study
+S0383,Sahil Khan,Female,23,1.39,5.6,99.23,28.82,36.45,Group study
+S0993,Ananya Gupta,Female,18,2.38,4.57,95.87,87.08,44.48,Coaching
+S0990,Ananya Gupta,Female,24,7.02,8.38,87.9,32.3,70.4,Group study
+S0663,Aman Gill,Female,17,8.24,6.53,99.45,56.95,83.09,Self-study
+S0453,Karan Das,Female,21,9.11,8.68,47.63,70.24,76.63,Self-study
+S0800,Rohan Nair,Male,20,6.67,4.42,60.68,43.68,63.63,Mixed
+S0468,Sneha Kumar,Female,17,9.26,7.56,52.41,29.98,70.46,Coaching
+S0329,Isha Mehta,Female,21,5.01,4.3,76.55,44.71,39.19,Self-study
+S0013,Priya Verma,Female,23,8.97,5.08,72.19,39.86,,Coaching
+S0596,Arjun Patel,Male,23,5.99,6.87,84.34,94.18,68.45,Self-study
+S0917,Isha Mehta,Male,24,8.06,5.18,46.26,47.21,65.97,Coaching
+S0207,Nikhil Bose,Male,21,36,9.24,56.54,58.98,53.76,Self-study
+S0104,Aman Gill,Male,19,4.92,6.61,67.15,33.53,58.49,Online
+S0606,Rahul Singh,Female,24,6.6,8.69,80.07,36.0,35.89,Mixed
+S0310,Vikram Reddy,Male,21,5.47,9.35,87.79,35.37,37.91,Mixed
+S0508,Kavya Menon,Female,21,1.56,6.78,68.64,88.93,27.07,Coaching
+S0223,Isha Mehta,Female,19,0.71,8.8,57.19,63.26,19.58,Group study
+S0154,Rohan Nair,Female,18,3.63,5.84,86.31,78.1,51.09,Online
+S0181,Aditya Rao,Female,24,7.95,6.72,66.92,93.74,73.37,Group study
+S0650,Rohan Nair,Female,22,0.6,9.65,64.1,78.86,23.43,Mixed
+S0183,Aditya Rao,Male,20,6.16,4.91,62.03,53.66,70.11,Mixed
+S0884,Neha Joshi,Female,17,3.07,6.92,96.52,48.77,43.43,Self-study
+S0332,Sahil Khan,Female,17,3.66,9.61,98.67,37.77,49.21,Online
+S0477,Diya Kapoor,Male,18, ,8.86,96.88,27.75,18.25,Self-study
+S0142,Isha Mehta,Female,24,9.91,6.3,83.15,73.3,77.95,Group study
+S0660,Rahul Singh,Female,17,3.71,6.93,59.17,64.44,37.42,Online
+S0778,Vikram Reddy,Female,23,1.9,6.54,98.44,27.37,68.08,Coaching
+S0545,Karan Das,Female,18,0.95,4.38,87.39,73.88,39.07,Self-study
+S0539,Diya Kapoor,Female,21,4.17,9.83,88.2,79.21,63.08,Mixed
+S0709,Riya Sinha,Female,19,9.66,9.37,58.49,32.59,75.82,Coaching
+S0317,Neha Joshi,Female,22,1.08,9.13,54.49,76.96,20.86,Mixed
+S0416,Diya Kapoor,Female,22,0.76,4.56,52.65,71.56,27.79,Mixed
+S0211,Pooja Shah,Female,22,4.77,5.51,51.68,94.21,52.28,Coaching
+S0849,Pooja Shah,Male,19,1.11,5.26,83.48,60.11,40.27,Online
+S0143,Rohan Nair,Male,17,9.13,6.34,86.98,55.26,60.59,Coaching
+S0003,Diya Kapoor,Male,24,3.58,5.47,83.21,66.57,38.06,Coaching
+S0363,Rahul Singh,Male,21,2.94,6.82,66.83,74.47,28.88,Self-study
+S0005,Rohan Nair,Male,18,7.53,6.15,67.95,70.83,56.49,Group study
+S0045,Neha Joshi,Female,17,3.4,9.38,77.01,74.87,49.87,Mixed
+S0954,Neha Joshi,Female,24,0.91,4.7,83.79,40.11,26.24,Coaching
+S0282,Karan Das,Female,18,4.53,6.44,63.34,29.84,26.56,Mixed
+S0682,Neha Joshi,Male,20,4.01,8.45,55.54,70.74,56.56,Mixed
+S0203,Neha Joshi,Male,24,7.55,,75.78,46.59,74.29,Mixed
+S0303,Sneha Kumar,Male,23,8.13,8.63,53.14,31.39,63.57,Online
+S0988,Ananya Gupta,Male,24,6.94,4.17,82.23,68.47,59.83,Self-study
+S0366,Rohan Nair,Female,17,5.61,9.41,67.11,47.52,65.49,Group study
+S0359,Isha Mehta,Female,21,5.25,4.87,73.65,76.03,60.56,Coaching
+S0636,Aman Gill,Male,18,5.66,5.5,75.14,49.36,62.54,Self-study
+S0521,Vikram Reddy,Male,21,8.52,6.56,46.94,85.28,74.68,Mixed
+S0372,Rahul Singh,Male,21,6.56,9.69,47.44,33.16,130,Group study
+S0708,Rohan Nair,Male,23,1.88,4.83,50.72,62.45,41.64,Mixed
+S0628,Riya Sinha,Male,24,7.0,4.29,59.54,42.83,48.35,Self-study
+S0379,Nikhil Bose,Male,23,1.27,5.3,99.5,77.5,29.66,Coaching
+S0232,Meera Iyer,Male,24,0.67,7.11,82.9,29.12,21.01,Self-study
+S0238,Diya Kapoor,Female,24,8.25,5.61,57.72,41.95,82.8,Group study
+S0946,Neha Joshi,Female,23,9.66,8.2,76.92,66.08,87.5,Group study
+S0172,Neha Joshi,Female,19,3.6,6.9,46.36,46.61,46.38,Online
+S0274,  ,Male,21,7.48,8.29,55.01,58.38,56.54,Coaching
+S0684,Sahil Khan,Male,19,5.72,8.1,45.99,33.81,39.12,Coaching
+S0557,Pooja Shah,Female,20,4.91,7.99,57.58,75.16,55.18,Coaching
+S0921,Ananya Gupta,Male,24,2.42,9.69,70.81,,43.48,Coaching
+S0195,Diya Kapoor,Female,24,4.52,5.97,95.88,94.82,61.83,Self-study
+S0721,Aditya Rao,Female,17,9.62,7.03,86.36,91.1,88.58,Online
+S0103,Sahil Khan,Female,19,8.16,6.73,91.49,26.56,N/A,Coaching
+S0775,Sahil Khan,Male,19,10.0,7.83,87.15,27.73,81.98,Self-study
+S0515,Diya Kapoor,Male,21,0.87,8.21,64.45,71.99,23.25,Online
+S0517,Neha Joshi,Male,17,6.03,8.98,70.95,87.1,67.1,N/A
+S0210,Pooja Shah,Female,22,7.32,6.28,92.75,94.65,73.25,Self-study
+S0163,Sneha Kumar,Female,17,4.22,5.08,65.05,39.39,not graded,Self-study
+S0670,Rohan Nair,Female,24,7.81,6.6,93.78,62.04,75.82,Group study
+S0573,Ananya Gupta,Female,19,2.25,8.22,45.96,88.38,41.76,Group study
+S0088,Priya Verma,Female,23,4.45,8.47,56.71,52.46,38.19,Online
+S0743,Kavya Menon,Male,18,4.53,7.22,66.93,33.8,51.38,Coaching
+S0608,Aarav Sharma,Female,21,1.41,7.15,45.15,79.79,23.21,Self-study
+S0191,Sahil Khan,Male,20,6.96,6.46,61.08,83.38,72.91,Self-study
+S0179,Rahul Singh,Female,18,8.9,8.86,76.27,76.07,52.48,Group study
+S0393,Nikhil Bose,Male,18,2.49,6.25,49.67,54.56,35.41,Self-study
+S0996,Kavya Menon,Female,17,0.77,9.35,53.56,74.59,16.4,Online
+S0563,Arjun Patel,Male,18,4.31,7.97,48.64,28.0,35.15,Online
+S0914,Neha Joshi,Female,18,6.02,6.97,,50.86,56.73,Online
+S0892,Karan Das,Male,23,3.75,9.02,80.64,65.13,32.92,Self-study
+S0512,Sneha Kumar,Male,24,7.09,6.22,75.29,83.24,63.88,Coaching
+S0615,Sneha Kumar,Female,17,8.92,9.3,68.37,79.89,92.62,Coaching
+S0440,Riya Sinha,Female,21,5.22,6.6,94.89,66.52,61.84,Group study
+S0472,Priya Verma,Female,19,2.59,5.54,78.95,69.64,45.18,Online
+S0399,Rohan Nair,Female,23,4.94,5.54,69.77,27.06,46.89,Group study
+S0586,Aditya Rao,Female,22,7.97,8.79,53.9,29.39,66.6,Online
+S0700,Rohan Nair,Male,19,6.45,7.07,80.03,88.31,62.25,Coaching
+S0701,Pooja Shah,Male,21,5.28,9.3,88.39,29.61,39.04,Self-study
+S0798,Nikhil Bose,Male,23,4.2,5.04,48.41,94.07,54.59,Coaching
+S0044,Priya Verma,Male,19,8.09,8.79,56.45,56.04,93.83,Self-study
+S0262,Rahul Singh,Female,24,4.15,7.99,80.22,38.45,52.57,Online
+S0733,Kavya Menon,Female,24,2.76,8.07,73.4,82.35,-8,Self-study
+S0430,Ananya Gupta,Male,17,3.6,4.58,82.5,39.91,34.72,Self-study
+S0229,Aarav Sharma,Female,17,2.61,5.07,70.52,45.51,48.06,Mixed
+S0006,Sneha Kumar,Female,21,6.49,4.55,68.85,55.16,55.39,Group study
+S0981,Sahil Khan,Female,17,55,5.67,72.73,34.11,45.98,Self-study
+S0811,Karan Das,Male,23,4.85,8.73,79.02,67.05,63.66,Mixed
+S0319,Aarav Sharma,Male,21,2.47,6.5,92.81,36.12,70.34,Group study
+S0872,Karan Das,Female,19,4.65,9.24,90.9,63.12,62.24,Coaching
+S0313,Sneha Kumar,Male,19,2.59,8.62,54.58,75.51,42.35,Online
+S0076,Vikram Reddy,Female,23,2.94,4.5,59.5,44.0,53.64,Online
+S0174,Riya Sinha,Male,24,1.89,7.8,59.54,73.36,17.87,Self-study
+S0833,Neha Joshi,Male,20,5.45,6.49,58.73,66.9,44.38,Coaching
+S0052,Neha Joshi,Female,19,1.91,9.64,90.8,84.22,58.87,Coaching
+S0552,Vikram Reddy,Male,17,2.84,6.54,62.26,70.07,29.57,Self-study
+S0788,Arjun Patel,Female,17,8.24,6.08,89.67,91.26,92.28,Self-study
+S0911,Rahul Singh,Female,20,2.11,9.33,93.82,36.15,37.72,Group study
+S0221,Riya Sinha,Female,24,1.34,5.47,56.22,31.44,23.46,Online
+S0509,Sneha Kumar,Female,18,9.6,7.42,63.26,64.02,85.62,Group study
+S0579,Pooja Shah,Female,21,7.54,25,87.09,37.27,80.44,Mixed
+S0388,Vikram Reddy,Female,20,4.45,8.58,90.43,26.5,38.62,Self-study
+S0094,Aman Gill,Male,18,9.83,7.7,48.24,71.28,93.4,Coaching
+S0149,Diya Kapoor,Male,17,9.44,6.69,85.94,41.51,76.82,Group study
+S0483,Aarav Sharma,Female,18,1.73,7.61,73.22,69.41,36.91,Self-study
+S0948,Aarav Sharma,Male,20,8.74,4.2,73.54,68.95,89.4,Mixed
+S0250,Pooja Shah,Male,21,0.85,unknown,92.59,60.87,15.4,Group study
+S0341,Riya Sinha,Female,24,9.86,5.89,80.73,94.35,100.0,Group study
+S0891,Aarav Sharma,Male,21,,5.67,76.07,37.46,38.81,Coaching
+S0201,Rahul Singh,Female,,5.25,9.63,46.16,39.54,110,Self-study
+S0092,Arjun Patel,Female,20,6.36,6.43,99.59,31.92,53.27,Mixed
+S0541,Pooja Shah,Female,21,3.0,4.6,86.83,53.9,34.04,Coaching
+S0443,Vikram Reddy,Female,22,6.67,4.65,74.4,74.95,78.38,Group study
+S0977,Sahil Khan,Male,24,1.81,6.38,79.21,72.51,40.98,Mixed
+S0281,Aman Gill,Male,19,6.92,5.36,47.38,seventy,58.06,Coaching
+S0411,Kavya Menon,Male,22,1.36,8.42,54.07,47.88,12.92,Group study
+S0906,Priya Verma,Male,23,2.23,6.56,51.97,91.33,48.46,Self-study
+S0569,Priya Verma,Female,24,4.09,6.79,77.55,27.43,52.65,Mixed
+S0609,Rohan Nair,Male,18,1.31,7.8,54.61,43.09,31.17,Group study
+S0918,Ananya Gupta,Male,19,7.27,7.06,46.41,94.02,56.13,Mixed
+S0336,Isha Mehta,Male,21,6.77,7.7,95.95,88.15,60.8,Mixed
+S0897,Riya Sinha,Female,23,2.08,7.88,68.37,88.59,40.34,Group study
+S0681,Rahul Singh,Female,23,0.82,6.38,50.07,33.59,28.58,Self-study
+S0915,Rohan Nair,Male,22,7.97,9.52,82.18,49.28,74.91,Coaching
+S0507,Pooja Shah,Female,19,6.65,8.6,81.77,45.02,44.74,Mixed
+S0962,Rohan Nair,Female,19,9.89,9.61,53.08,74.36,67.15,Online
+S0752,Isha Mehta,Female,17,3.95,7.69,93.39,43.81,102,Group study
+S0093,Isha Mehta,Female,24,1.5,7.76,69.59,88.89,28.73,Online
+S0735,Arjun Patel,Female,22,8.18,7.25,85.53,77.08,83.81,Online
+S0731,Nikhil Bose,Male,22,7.34,4.56,92.54,60.9,77.28,Self-study
+S0854,Rahul Singh,Female,23,8.35,7.14,87.46,76.17,80.09,Mixed
+S0903,Neha Joshi,Male,17,6.84,9.34,83.21,54.13,82.28,Self-study
+S0576,Pooja Shah,Female,18,8.97,6.99,98.86,81.12,95.72,Group study
+S0574,Aman Gill,Female,24,4.36,8.14,69.74,91.79,45.09,Online
+S0279,Nikhil Bose,Female,18,25,4.33,93.69,61.84,47.69,Coaching
+S0280,Priya Verma,Male,22,5.64,7.79,71.03,33.77,55.38,Group study
+S0338,Nikhil Bose,Male,18,6.18,8.7,59.52,34.16,67.89,Online
+S0228,Sneha Kumar,Male,19,3.37,8.4,54.9,69.48,27.57,Mixed
+S0009,Ananya Gupta,Female,20,9.21,4.65,72.25,41.3,92.39,Coaching
+S0086,Nikhil Bose,Female,23,3.23,8.86,52.21,67.85,27.73,Coaching
+S0861,Aditya Rao,Male,20,0.85,-5,53.63,75.92,27.93,Self-study
+S0610,Pooja Shah,Female,21,1.7,9.06,82.23,43.56,46.52,Online
+S0724,Kavya Menon,Male,18,8.9,8.57,87.13,66.72,72.34,Group study
+S0832,Aman Gill,Male,21,2.21,4.87,72.71,53.15,45.41,Mixed
+S0097,Neha Joshi,Male,19,7.04,5.11,76.33,46.54,61.68,Online
+S0342,Riya Sinha,Male,18,3.64,7.68,57.48,89.36,50.55,Group study
+S0122,Diya Kapoor,Unknown,20,7.85,6.86,92.87,94.7,76.16,Coaching
+S0157,Riya Sinha,Female,24,8.96,4.69,92.33,87.09,90.65,Group study
+S0744,Isha Mehta,Female,22,5.84,9.18,64.88,44.67,65.55,Group study
+S0639,Diya Kapoor,Female,18,,9.76,73.62,35.79,35.05,Mixed
+S0674,Karan Das,Female,22,5.58,7.31,97.31,85.2,50.65,Mixed
+S0471,Neha Joshi,Female,20,1.48,6.4,63.05,28.83,28.18,Group study
+S0558,Priya Verma,Male,17,4.33,8.26,68.08,67.46,57.97,Online
+S0294,Sneha Kumar,Female,19,1.47,4.07,45.89,76.62,33.44,Self-study
+S0814,Nikhil Bose,Female,19,6.98,8 hrs,64.85,42.42,53.32,Group study
+S0738,Meera Iyer,Female,19,4.24,6.02,87.47,78.19,57.95,Self-study
+S0165,Riya Sinha,Male,18,9.29,9.44,90.28,82.22,91.17,Group study
+S0837,Kavya Menon,Female,23,28,6.38,60.37,44.98,44.84,Mixed
+S0283,Sneha Kumar,Male,23,8.69,9.04,50.41,80.48,77.43,Online
+S0365,Kavya Menon,Female,19,4.64,4.83,68.0,38.95,50.29,Mixed
+S0311,Sneha Kumar,Male,23,1.89,7.12,85.22,47.05,25.74,Mixed
+S0511,Priya Verma,Female,24,3.75,4.37,86.34,34.03,27.22,Group study
+S0180,Karan Das,Male,24,3.84,4.39,69.35,94.89,25.07,Mixed
+S0070,Arjun Patel,Male,17,4.5,5.31,91.52,56.94,61.0,Mixed
+S0926,Aditya Rao,Male,22,8.41,9.98,64.36,35.72,83.95,Mixed
+S0887,Ananya Gupta,Female,19,1.91,5.37,69.12,91.51,38.5,Online
+S0680,Kavya Menon,Male,22,7.16,4.77,84.86,69.01,69.89,Group study
+S0941,Riya Sinha,Male,22,6.03,6.49,78.82,74.04,57.42,Coaching
+S0059,Rohan Nair,Male,17,8.45,6.1,95.13,53.03,61.64,Group study
+S0876,Arjun Patel,Male,17,7.16,8.55,77.7,54.81,56.53,Coaching
+S0991,Sneha Kumar,Male,21,8.79,5.79,84.22,39.49,67.25,Coaching
+S0835,Vikram Reddy,Female,22,7.18,5.81,79.22,88.68,74.1,Self-study
+S0266,Neha Joshi,Male,17,8.68,9.07,83.63,52.47,90.98,Group study
+S0845,Aarav Sharma,Female,23,6.5,5.5,94.21,79.95,80.48,Coaching
+S0792,Pooja Shah,Male,22,2.52,6.48,48.54,79.83,26.3,Coaching
+S0381,Kavya Menon,Female,23,7.33,7.65,81.03,35.63,83.52,Online
+S0605,Arjun Patel,Male,22,5.9,4.36,97.99,70.79,57.41,Group study
+S0677,Ananya Gupta,Male,24,7.64,9.69,73.85,27.75,62.04,Coaching
+S0758,Karan Das,Male,18,2.5,4.53,58.79,86.41,40.09,Coaching
+S0722,Ananya Gupta,Male,23,4.36,5.07,52.0,76.04,48.65,Group study
+S0148,Neha Joshi,Male,24,9.81,8.01,58.19,26.06,61.78,Group study
+S0252,Aditya Rao,Female,18,1.35,9.08,78.68,62.65,44.81,Self-study
+S0640,Aarav Sharma,Female,24,2.96,4.9,64.48,47.32,52.92,Coaching
+S0889,Aman Gill,Male,18,6.78,5.25,97.81,26.29,64.83,Group study
+S0213,unknown,Female,20,3.05,5.95,51.97,28.55,44.04,Group study
+S0441,Diya Kapoor,Female,24,unknown,9.9,47.91,43.86,22.34,Mixed
+S0870,Diya Kapoor,Male,22,4.76,7.99,87.52,45.37,47.78,Group study
+S0331,Aarav Sharma,Male,23,5.05,6.55,85.83,54.3,39.9,Self-study
+S0957,Priya Verma,Female,18,0.77,5.56,80.87,76.56,22.41,Group study
+S0277,Aditya Rao,Female,20,9.15,4.1,75.12,45.46,eighty,Self-study
+S0793,Priya Verma,Female,20,5.07,8.31,92.27,NA,60.41,Self-study
+S0896,Sneha Kumar,Female,20,3.61,5.25,81.63,86.93,73.34,Self-study
+S0661,Meera Iyer,Female,19,1.15,8.68,78.81,80.41,37.1,Group study
+S0686,Pooja Shah,Male,24,2.87,8.28,69.53,62.49,33.48,Coaching
+S0449,Nikhil Bose,Female,23,1.72,4.29,67.15,85.51,47.42,Mixed
+S1000,Diya Kapoor,Male,21,5.84,4.34,91.74,80.64,57.82,Mixed
+S0698,Aman Gill,Male,23,6.0,4.42,67.53,51.17,61.82,Mixed
+S0525,Meera Iyer,Female,22,4.62,4.74,52.97,70.92,39.97,Mixed
+S0304,Nikhil Bose,Female,20,8.33,9.36,80.3,87.45,65.49,Group study
+S0488,Aarav Sharma,Male,22,5.82,5.89,67.52,40.28,48.78,Coaching
+S0730,Isha Mehta,Male,24,2.53,4.63,54.01,87.91,49.48,Mixed
+S0877,Rohan Nair,Male,23,6.95,5.67,91.86,72.71,63.59,Coaching
+S0020,Kavya Menon,Male,21,8.54,7.32,91.99,51.94,86.4,Self-study
+S0325,Karan Das,Male,17,4.93,7.14,74.1,54.68,48.09,Group study
+S0261,Rohan Nair,Female,21,ten,4.64,57.55,71.81,33.78,Coaching
+S0839,Aditya Rao,Male,20,9.62,8.61,83.87,89.47,92.18,Self-study
+S0410,Diya Kapoor,Female,22,1.23,5.44,,27.16,-3,Online
+S0401,Meera Iyer,Male,24,6.96,6.75,67.4,67.19,77.29,Group study
+S0995,Sahil Khan,Female,21,6.86,5.74,92.38,76.21,48.58,Mixed
+S0055,Aman Gill,Male,19,9.69,5.69,58.55,30.43,75.81,Online
+S0880,Neha Joshi,Female,22,6.02,6.74,54.04,38.25,65.51,Coaching
+S0151,Diya Kapoor,Female,17,8.12,5.7,71.82,52.99,79.86,Coaching
+S0874,Priya Verma,Male,23,0.6,9.27,58.59,92.11,35.55,Coaching
+S0710,Rahul Singh,Female,24,2.24,9.91,46.81,32.6,36.58,Group study
+S0697,Ananya Gupta,Male,24,8.44,8.48,84.92,54.55,68.25,Mixed
+S0107,Meera Iyer,Male,23,9.42,8.65,64.34,78.31,89.11,Coaching
+S0717,Sneha Kumar,Male,23,4.99,4.19,66.7,46.56,50.28,Coaching
+S0025,Aarav Sharma,Male,24,9.88,6.1,90.44,,81.03,Online
+S0907,Karan Das,Female,22,6.43,8.58,94.73,55.69,59.94,Self-study
+S0534,Diya Kapoor,Female,23,0.59,9.15,82.47,35.12,19.75,Online
+S0809,Priya Verma,Male,20,7.11,9.49,79.36,66.62,135,Coaching
+S0083,Aditya Rao,Male,17,-3,5.54,66.78,69.83,91.38,Mixed
+S0834,Aditya Rao,Female,20,9.5,5.56,68.14,53.69,91.27,Group study
+S0853,Kavya Menon,Male,20,2.75,7.3,81.05,94.87,42.42,Group study
+S0614,Vikram Reddy,Female,21,8.37,4.55,81.77,49.1,77.81,Self-study
+S0380,Nikhil Bose,Female,18,4.92,8.97,73.08,49.09,56.03,Group study
+S0077,Priya Verma,Male,21,5.89,4.14,45.96,58.09,59.1,self study
+S0389,Riya Sinha,Male,21,4.61,9.46,76.3,64.4,55.77,Group study
+S0407,Isha Mehta,Male,23,8.33,5.68,66.7,43.72,73.9,coaching class
+S0292,Nikhil Bose,Female,22,8.89,7.24,75.87,93.65,67.33,Group study
+S0111,Vikram Reddy,Male,19,4.11,4.18,81.72,36.26,74.52,Group study
+S0625,Vikram Reddy,Male,24,6.69,6.49,70.46,42.43,67.5,Group study
+S0785,Neha Joshi,Male,21,0.96,8.82,53.21,66.52,29.97,Mixed
+S0953,Sneha Kumar,Male,21,8.95,9.63,55.09,65.19,86.17,Online
+S0247,Aarav Sharma,Male,99,4.51,4.65,87.49,76.85,51.46,Mixed
+S0146,Priya Verma,Female,24,3.81,7.88,58.74,41.08,,Group study
+S0129,Pooja Shah,Female,17,7.65,9.55,62.58,86.56,73.84,Online
+S0843,Vikram Reddy,Male,24,0.57,7.05,49.46,35.29,8.72,Online
+S0623,Sahil Khan,Male,18,7.34,6.55,90.58,54.9,49.55,Group study
+S0967,Rahul Singh,Male,23,1.72,4.82,47.27,42.86,26.22,Group study
+S0937,Isha Mehta,Male,21,3.13,5.85,74.48,27.63,39.35,Coaching
+S0487,Neha Joshi,Male,20,6.61,7.69,70.96,75.99,45.68,Group study
+S0900,Rahul Singh,Female,23,7.79,5.57,75.16,56.72,86.79,Mixed
+S0091,,Female,23,8.49,8.68,82.15,79.11,89.01,Mixed
+S0206,Aman Gill,Male,22,0.57,8.12,50.52,30.17,2.1,Mixed
+S0971,Priya Verma,Female,18,1.61,4.74,96.18,42.23,35.43,Online
+S0171,Ananya Gupta,Male,20,4 hrs,7.94,96.91,26.08,59.74,Mixed
+S0910,Aarav Sharma,Female,22,4.25,8.98,72.69,70.8,46.3,Coaching
+S0057,Rohan Nair,Male,24,7.43,4.57,83.87,86.63,77.11,Mixed
+S0405,Arjun Patel,Male,19,N/A,9.83,93.46,81.78,90.87,Self-study
+S0242,Aarav Sharma,Female,19,6.89,9.65,N/A,56.76,63.43,
+S0600,Rahul Singh,Male,20,3.78,4.97,45.9,40.54,125,Mixed
+S0347,Sneha Kumar,Male,22,5.3,9.68,89.62,91.37,41.2,Online
+S0098,Pooja Shah,Male,24,8.26,5.0,74.37,52.0,83.21,Coaching
+S0117,Neha Joshi,Female,17,7.22,5.7,78.87,56.13,66.09,Group study
+S0202,Arjun Patel,Male,21,9.21,7.67,53.91,27.76,76.82,Group study
+S0879,Aarav Sharma,Female,20,1.03,4.1,97.41,52.61,35.24,Coaching
+S0480,Rahul Singh,Male,20,8.24,8.91,58.23,77.28,76.65,Self-study
+S0324,Sahil Khan,Female,19,7.96,8.9,53.93,81.5,85.39,Self-study
+S0194,Rahul Singh,Male,21,1.7,4.64,48.94,63.76,17.64,Group study
+S0444,Rohan Nair,Male,21,7.65,7.5,78.92,47.77,79.07,Coaching
+S0807,Aditya Rao,Male,17,4.42,5.0,51.14,50.76,39.26,Mixed
+S0455,Nikhil Bose,Male,23,5.69,4.31,60.06,84.26,47.61,Mixed
+S0529,Karan Das,Male,17,5.24,8.64,94.39,53.2,47.98,Group study
+S0797,Aman Gill,Male,24,7.39,6.08,73.42,41.4,63.8,Self-study
+S0551,Sneha Kumar,Male,20,6.66,9.35,80.33,58.1,59.33,Coaching
+S0810,Aditya Rao,Male,24,0.88,7.52,82.02,88.67,28.34,Self-study
+S0100,Sneha Kumar,Male,24,0.83,4.86,88.76,59.44,26.82,Coaching
+S0985,Nikhil Bose,Female,24,2.89,9.25,46.46,49.18,33.24,Group study
+S0297,Priya Verma,Male,19,,0,95.3,34.99,81.99,Group
+S0885,Vikram Reddy,Female,24,9.21,6.77,78.13,93.03,,Group study
+S0602,Nikhil Bose,Female,24,6.48,8.22,93.52,87.76,65.47,Online
+S0816,Isha Mehta,Male,18,9.42,9.41,79.47,90.75,94.94,Online
+S0396,N/A,Female,24,2.89,6.11,89.73,83.08,64.18,Group study
+S0427,Riya Sinha,Female,19,0.75,4.47,50.33,65.49,19.53,Coaching
+S0812,Aman Gill,Male,23,5.29,7.29,91.06,47.77,47.79,Group study
+S0560,Riya Sinha,Male,24,1.73,5.27,92.14,55.33,41.86,Online
+S0526,Sneha Kumar,Female,21,8.98,6.99,99.21,80.1,67.99,Mixed
+S0961,Rahul Singh,Male,17,7.58,7.32,74.96,34.42,,Group study
+S0015,Riya Sinha,Female,23,3.17,,50.97,60.82,39.37,Group study
+S0253,Aman Gill,Male,22,3.65,5.55,56.11,63.33,39.07,Online
+S0239,Rohan Nair,Female,23,5.2,6.8,96.98,94.41,,Mixed
+S0121,Isha Mehta,Male,23,4.2,8.78,74.29,55.35,60.08,Coaching
+S0286,Arjun Patel,Female,20,9.25,4.85,77.09,44.74,75.1,Coaching
+S0555,Rohan Nair,Male,20,0.56,9.52,99.0,48.85,33.88,Group study
+S0197,Aman Gill,Male,22,8.0,5.08,62.32,71.96,75.7,Group study
+S0346,Karan Das,Male,23,2.33,8.39,60.11,75.53,31.52,Self-study
+S0546,Ananya Gupta,Female,20,2.5,8.71,89.69,49.18,38.63,Self-study
+S0251,Meera Iyer,Male,19,3.59,4.23,98.1,54.53,33.11,Online
+S0925,Sahil Khan,Female,18,7.95,7.92,73.93,77.93,74.19,Online
+S0646,Sneha Kumar,Female,20,8.2,6.63,84.25,32.55,80.2,Mixed
+S0821,Sneha Kumar,Male,24,0.55,6.11,45.1,42.72,0.45,Coaching
+S0413,Meera Iyer,Male,18,9.24,7.64,75.88,69.48,85.39,Self-study
+S0486,Sneha Kumar,Male,22,7.83,4.88,81.14,35.64,150,Mixed
+S0431,Vikram Reddy,Female,150,4.88,9.26,94.79,55.08,57.88,Coaching
+S0784,Riya Sinha,Male,24,6.86,4.91,83.7,27.18,61.15,Group study
+S0759,Pooja Shah,Male,19,9.55,6.85,97.63,46.46,83.02,Mixed
+S0291,Vikram Reddy,Male,24,1.7,6.96,53.95,85.33,36.42,Mixed
+S0017,Riya Sinha,Female,,4.11,7.29,75.62,25.29,39.31,Mixed
+S0159,Rahul Singh,,21,1.68,4.57,82.09,67.59,24.97,Coaching
+S0244,Neha Joshi,Female,22,3.89,9.84,95.5,30.47,44.83,Mixed
+S0067,Aditya Rao,Female,21,1.79,5.07,75.33,64.36,15.93,Coaching
+S0916,Rahul Singh,Male,23,9.11,4.62,57.91,36.99,67.92,Self-study
+S0360,Kavya Menon,Male,17,9.59,4.18,52.25,26.91,70.85,Mixed
+S0944,Karan Das,Female,22,3.51,8.83,63.41,72.79,44.39,Mixed
+S0632,Kavya Menon,Male,17,9.54,9.45,73.33,91.19,73.51,Self-study
+S0505,Rahul Singh,Female,24,1.5,6.46,61.31,47.08,incomplete,Coaching
+S0473,Isha Mehta,Male,19,7.59,4.22,76.58,,55.21,Coaching
+S0955,Aarav Sharma,Male,21,4.0,,56.92,54.76,68.17,Mixed
+S0578,Aman Gill,Male,23,5.48,7.58,130,52.58,52.58,Coaching
+S0973,Neha Joshi,Female,22,1.49,9.18,84.03,84.96,43.91,Group study
+S0522,Aman Gill,Male,21,8.88,6.86,-5,83.16,79.54,Mixed
+S0866,Nikhil Bose,Male,23,9.75,5.53,49.37,84.0,118,Group study
+S0531,Neha Joshi,Male,24,,7.09,52.31,71.52,74.8,Online
+S0409,Vikram Reddy,Male,17,1.35,6.3,50.05,150,31.15,Mixed
+S0666,Aarav Sharma,Male,17,1.63,7.77,69.23,48.22,33.36,Online
+S0864,Riya Sinha,Female,17,5.93,8.13,64.81,84.92,68.65,Self-study
+S0433,Arjun Patel,Female,24,9.27,4.23,48.92,81.2,59.63,Group study
+S0432,Vikram Reddy,Male,23,5.51,6.5,55.28,92.86,44.29,Mixed
+S0485,Nikhil Bose,Female,20,6.55,-1,85.99,32.27,54.36,Mixed
+S0152,Student X,Female,24,6.72,4.61,91.33,67.99,51.81,Online
+S0328,Pooja Shah,Female,21,8.41,5.77,56.27,37.1,83.08,Coaching
+S0257,Meera Iyer,Male,20,4.41,4.04,48.25,45.67,48.03,Self-study
+S0312,Ananya Gupta,Male,20,2.01,4.15,50.21,70.57,32.27,Coaching
+S0867,Aarav Sharma,Female,24,4.61,6.22,58.59,56.1,46.48,Mixed
+S0305,Aarav Sharma,Female,18,9.76,4.37,93.08,61.85,87.65,Coaching
+S0414,Rahul Singh,Male,19,8.83,4.51,72.86,67.54,82.72,Coaching
+S0134,Arjun Patel,Male,19,6.44,7.33,98.66,77.88,77.89,Coaching
+S0032,Aarav Sharma,Female,17,2.41,8.87,70.74,81.56,51.1,Group study
+S0766,Aman Gill,Male,19,5.5,9.92,98.39,26.98,56.93,Mixed
+S0783,Rohan Nair,Male,17,,8.04,92.66,61.26,60.35,Mixed
+S0459,Aditya Rao,Male,18,-2,5.39,99.27,54.82,39.42,Mixed
+S0162,Aarav Sharma,Male,18,0.71,7.21,68.26,36.03,12.78,Coaching
+S0340,Isha Mehta,Female,21,4.42,5.79,76.33,40.62,51.04,Self-study
+S0287,Nikhil Bose,Male,24,4.33,9.41,52.5,52.23,40.69,Online
+S0249,Rahul Singh,Female,19,7.78,4.74,73.01,67.57,83.44,Coaching
+S0931,Ananya Gupta,Female,22,4.34,9.14,73.19,62.0,54.18,Coaching
+S0580,Nikhil Bose,Female,23,1.44,5.9,99.22,66.61,21.63,Coaching
+S0890,Riya Sinha,Male,17,2.54,7.27,91.7,56.1,52.09,Group study
+S0928,Riya Sinha,Female,20,7.15,6.22,77.2,85.47,66.86,Mixed
+S0002,Ananya Gupta,Female,18,7.01,6.89,66.57,49.02,63.22,Online
+S0737,Isha Mehta,Female,22,2.16,4.33,65.66,30.22,38.16,Online
+S0208,Riya Sinha,Male,21,1.45,4.02,60.68,36.49,19.83,Mixed
+S0630,Isha Mehta,Female,18,7.85,8.55,65.71,47.81,65.92,Mixed
+S0924,Aditya Rao,Male,17,6.35,5.6,65.24,61.31,59.87,Online
+S0842,Pooja Shah,Male,21,4.24,6.67,86.05,64.69,45.35,Online
+S0851,Ananya Gupta,Female,20,2.67,6.96,45.95,63.89,40.66,Coaching
+S0265,Rohan Nair,Female,20,2.02,9.95,89.45,54.47,38.58,Mixed
+S0275,Sahil Khan,Female,23,6.35,8.6,60.59,80.57,72.56,Coaching
+S0071,Riya Sinha,Male,21,2.44,6.9,71.28,29.74,47.67,Mixed
+S0641,Isha Mehta,Female,20,3.48,6.16,90.99,82.1,38.51,Online
+S0445,Kavya Menon,Male,18,3.03,7.02,78.45,56.52,46.33,Self-study
+S0838,Priya Verma,Male,20,4.1,4.16,65.47,64.58,54.26,Self-study
+S0099,Riya Sinha,Female,24,2.42,9.58,93.65,49.99,31.69,Self-study
+S0857,Rohan Nair,Female,21,9.82,7.3,82.68,130,78.59,Coaching
+S0022,Aditya Rao,Female,24,5.45,4.02,99.36,88.37,39.15,
+S0706,Neha Joshi,Female,18,8.15,9.67,75.89,27.93,67.04,Self-study
+S0415,Arjun Patel,Female,17,1.59,5.79,84.4,60.42,35.86,Self-study
+S0518,Aarav Sharma,Female,22,7.24,7.36,88.68,77.39,69.63,Coaching
+S0150,Diya Kapoor,Male,17,5.51,7.58,67.28,70.47,67.03,Mixed
+S0648,Kavya Menon,Female,18,4.78,4.74,51.57,58.23,47.55,Mixed
+S0355,Meera Iyer,Female,18,1.77,5.46,58.9,38.45,40.05,Group study
+S0942,Nikhil Bose,Female,23,3.09,6.89,58.63,35.15,-12,Mixed
+S0053,Sneha Kumar,Female,23,8.47,5.66,74.67,30.63,51.64,Self-study
+S0199,Aditya Rao,Female,17,1.67,4.06,45.97,25.81,27.62,Mixed
+S0123,Rahul Singh,Male,21,7.55,7.16,77.66,64.53,67.3,Coaching
+S0204,Meera Iyer,Female,22,7.8,9.12,70.86,74.96,61.91,Mixed
+S0068,Nikhil Bose,Male,19,4.97,8.85,82.13,25.42,41.0,Online
+S0224,Aman Gill,Male,23,7.68,9.87,84.39,81.61,76.5,Self-study
+S0128,Aman Gill,Male,21,3.15,4.42,73.56,73.6,38.49,Coaching
+S0656,Neha Joshi,Female,20,6.68,5.35,76.31,65.3,66.38,Self-study
+S0140,Rahul Singh,Male,17,5.68,6.08,66.51,46.74,66.68,Coaching
+S0418,Isha Mehta,Male,17,0.96,8.88,55.77,26.62,31.76,Group study
+S0219,Aman Gill,Male,23,6.19,6.48,89.09,58.66,52.06,Coaching
+S0547,Pooja Shah,Male,23,1.38,9.73,72.47,91.83,41.42,Coaching
+S0158,Ananya Gupta,Female,22,1.08,9.38,57.28,43.77,27.88,Coaching
+S0095,Aarav Sharma,Female,19,3.16,8.14,45.71,27.16,40.14,Mixed
+S0256,Vikram Reddy,Female,20,7.17,4.05,47.36,27.36,59.58,Group study
+S0979,Pooja Shah,Female,19,4.82,7.4,74.86,57.45,48.32,Online
+S0644,Sneha Kumar,Female,17,7.5,8.81,88.63,86.45,71.89,Self-study
+S0739,Pooja Shah,Female,18,1.91,8.63,93.29,69.77,31.53,Online
+S0040,Priya Verma,Female,17,4.9,7.01,62.25,28.31,67.71,Coaching
+S0131,Ananya Gupta,Male,20,4.72,6.05,82.32,69.3,50.19,Mixed
+S0998,Priya Verma,Male,17,0.95,8.53,90.39,63.87,20.79,Mixed
+S0190,Priya Verma,Male,20,1.24,7.51,48.66,40.49,23.68,Group study
+S0951,Priya Verma,Female,20,3.42,4.9,71.72,80.78,38.52,Self-study
+S0590,Kavya Menon,Female,22,8.26,7.06,62.7,40.04,83.3,Self-study
+S0403,Aarav Sharma,Male,23,9.55,9.41,65.88,65.24,81.78,Coaching
+S0761,Arjun Patel,Female,24,2.37,4.51,66.11,49.26,55.56,Self-study
+S0039,Rohan Nair,Female,23,5.59,4.65,72.29,37.06,57.63,Self-study
+S0243,Karan Das,Female,24,,5.53,47.31,45.51,57.62,Group study
+S0354,Rahul Singh,Female,20,8.59,5.29,105,64.6,86.54,Online
+S0621,Pooja Shah,Female,24,missing,5.91,71.15,58.42,48.8,Online
+S0651,Karan Das,Female,24,1.18,8.63,72.31,26.31,25.47,Mixed
+S0535,Priya Verma,Female,23,7.03,8.66,72.61,58.93,75.7,Mixed
+S0504,Neha Joshi,Male,17,9.69,5.84,79.8,72.72,82.39,Self-study
+S0160,Pooja Shah,Male,19,2.8,8.04,83.55,57.08,37.84,Group study
+S0395,Rohan Nair,Male,19,5.51,7.91,51.75,52.81,49.35,Coaching
+S0538,Kavya Menon,Female,23,8.77,9.95,82.19,72.93,92.41,Group study
+S0696,Isha Mehta,Male,18,8.14,4.85,59.9,64.41,70.36,Online
+S0241,Vikram Reddy,Male,24,1.83,5.53,52.06,66.05,28.69,Coaching
+S0014,Aman Gill,Female,21,7.37,4.1,77.69,63.97,69.79,Online
+S0658,Sneha Kumar,Female,22,1.15,9.27,88.13,53.74,26.41,Mixed
+S0476,Sahil Khan,Male,24,6.1,9.59,80.32,92.66,69.85,Group study
+S0904,Sneha Kumar,Female,21,5.22,7.71,59.97,56.94,pending,Self-study
+S0875,Karan Das,Female,19,8.68,9.75,64.52,79.24,55.0,Self-study
+S0315,Isha Mehta,Male,19,not available,8.75,99.62,90.78,105,Mixed
+S0362,Vikram Reddy,Female,23,1.99,9.61,93.32,46.06,52.66,Group study
+S0591,Rohan Nair,Male,18,5.4,4.64,73.68,40.71,69.33,Coaching
+S0321,Rahul Singh,Female,23,1.39,8.18,76.24,29.73,10.33,Coaching
+S0913,Isha Mehta,Female,19,7.31,9.16,84.54,90.87,81.27,Online
+S0300,Diya Kapoor,Male,19,3.44,6.44,59.07,62.4,29.53,Self-study
+S0673,Ananya Gupta,Female,18,1.73,,84.76,56.43,44.61,Group study
+S0565,Priya Verma,Female,17,4.98,9.3,90.84,46.26,53.05,Self-study
+S0356,Diya Kapoor,Female,23,9.36,5.34,53.59,39.23,87.3,Coaching
+S0035,Rahul Singh,Male,17,4.22,8.21,98.11,31.34,49.91,Mixed
+S0335,,Female,17,4.09,8.73,70.44,46.23,43.36,Group study
+S0689,Sahil Khan,Male,19,3.57,8.52,71.7,84.35,60.18,Group study
+S0377,Sneha Kumar,Female,24,5.81,8.74,78.55,64.28,60.38,Self-study
+S0185,Neha Joshi,Male,24,2.86,5.51,72.37,52.8,31.43,Online
+S0824,Priya Verma,Female,21,7.03,4.77,78.39,55.49,72.34,Self-study
+S0424,Karan Das,Male,23,6.13,4.57,86.13,72.04,66.91,Self-study
+S0326,Sahil Khan,Female,17,7.27,9.57,68.49,70.31,89.39,Group study
+S0188,Kavya Menon,Female,18,0.65,9.53,58.95,94.76,44.41,Group study
+S0285,Rahul Singh,Female,21,4.11,4.32,82.74,90.85,59.2,Mixed
+S0392,Vikram Reddy,Female,18,2.77,5.65,45.88,42.91,21.5,Coaching
+S0966,Neha Joshi,Male,21,2.39,5.46,53.93,77.29,23.54,Online
+S0166,Ananya Gupta,Male,23,8.12,6.39,85.0,65.68,63.78,Online
+S0348,Sneha Kumar,Female,24,6.82,6.06,72.87,34.01,57.4,Group study
+S0299,Meera Iyer,Male,20,6.89,5.94,99.27,36.11,63.01,Coaching
+S0536,Sneha Kumar,Male,22,9.37,6.62,75.59,79.33,87.59,Mixed
+S0230,Karan Das,Female,19,5.71,4.88,69.03,43.28,52.12,Group study
+S0860,Rohan Nair,Male,22,8.55,8.15,80.39,91.7,66.03,Self-study
+S0828,Rohan Nair,Male,23,1.08,9.86,86.43,70.6,-4,Mixed
+S0695,Aarav Sharma,Male,22,8.81,5.62,98.32,37.39,200,Self-study
+S0856,Aditya Rao,Female,24,4.61,7.16,64.22,48.8,68.14,Coaching
+S0042,Meera Iyer,Male,18,9.82,7.24,79.45,25.39,66.78,Group study
+S0869,Rahul Singh,Female,21,4.76,6.17,51.41,56.71,43.56,Online
+S0749,Rahul Singh,Male,22,9.7,5.98,76.72,93.12,91.45,Coaching
+S0940,Isha Mehta,Male,18,2.22,8.06,56.76,28.49,35.17,Self-study
+S0863,Aditya Rao,Female,19,0.87,4.52,87.42,88.05,29.12,Online
+S0588,Rahul Singh,Male,17,5.79,4.29,57.07,82.2,44.97,Group study
+S0544,Neha Joshi,Male,19,4.19,7.64,95.05,63.76,42.97,Mixed
+S0447,Neha Joshi,Male,17,7.77,5.54,73.07,47.2,60.49,Coaching
+S0448,Diya Kapoor,Female,20,7.98,5.31,90.11,34.04,115,Mixed
+S0350,Aditya Rao,Male,17,0.92,9.6,91.54,90.56,28.7,Online
+S0046,Aditya Rao,Male,22,3.04,7.01,48.71,94.51,44.62,Online
+S0972,Diya Kapoor,Female,21,3.81,6.62,75.66,56.91,41.86,Self-study
+S0109,Aman Gill,Female,12,7.67,-2,99.33,80.15,65.14,Coaching
+S0618,Vikram Reddy,Female,20,2.62,7.76,79.5,90.76,36.52,Online
+S0662,Riya Sinha,Male,18,3.8,4.14,87.51,86.49,42.56,Self-study
+S0030,,Female,18,1.25,9.16,90.18,88.69,27.25,Coaching
+S0182,Aarav Sharma,Female,22,0.91,9.62,57.96,35.43,-5,Self-study
+S0622,Pooja Shah,Male,21,7.38,6.7,69.53,53.01,79.5,Self-study
+S0420,Isha Mehta,Female,19,4.29,6.25,59.12,74.89,77.99,Self-study
+S0635,Priya Verma,Female,18,0.83,7.31,69.59,66.9,39.25,Mixed
+S0976,Sahil Khan,Male,22,5.37,9.65,75.96,61.01,63.9,Group study
+S0105,Sahil Khan,Male,21,6.7,8.26,80.94,58.83,79.43,Self-study
+S0061,Aman Gill,Male,21,5.05,5.69,68.02,54.11,60.27,Group study
+S0659,Aarav Sharma,Female,18,4.31,7.11,91.65,61.63,54.77,Online
+S0084,Sahil Khan,Female,24,6.64,4.23,86.81,41.11,,Self-study
+S0491,Ananya Gupta,Female,21,3.12,5.19,60.59,44.98,31.18,Group study
+S0316,Karan Das,Female,23,3.3,4.54,58.49,80.1,54.0,Self-study
+S0451,Arjun Patel,Female,20,6.95,8.25,65.1,51.36,63.2,Group study
+S0382,Pooja Shah,Female,19,3.24,5.03,90.1,47.34,45.4,Coaching
+S0423,Neha Joshi,Male,18,100,6.04,74.68,85.38,65.5,Mixed
+S0497,Vikram Reddy,Female,22,9.15,5.08,57.56,71.35,73.29,Group study
+S0947,Arjun Patel,Female,20,5.42,7.86,98.55,94.99,66.66,Online
+S0740,Priya Verma,Male,19,0.82,8.77,60.19,61.04,38.02,Coaching
+S0524,Karan Das,Male,20,3.15,5.23,99.09,57.1,-10,Online
+S0446,Aditya Rao,Male,22,1.79,5.62,47.48,40.07,16.63,Coaching
+S0664,Arjun Patel,Female,24,6.3,9.41,94.84,92.63,52.33,Group study
+S0001,Rahul Singh,Male,23,7.27,6.57,83.0,75.34,85.65,Online
+S0780,Kavya Menon,Male,22,4.22,7.24,76.83,82.57,46.18,Group study
+S0982,Neha Joshi,Female,17,8.5,7.64,50.16,71.15,58.01,Self-study
+S0627,Diya Kapoor,Male,24,8.39,9.49,54.47,93.41,71.11,Group study
+S0458,Nikhil Bose,Male,19,1.84,8.8,51.05,92.37,21.47,Group study
+S0489,Rohan Nair,Female,19,9.2,5.96,55.74,46.91,73.89,Group study
+S0089,Aarav Sharma,Male,22,7.53,8.8,89.76,N/A,82.05,Self-study
+S0484,Aditya Rao,Female,22,3.71,4.45,88.06,38.37,47.74,Group study
+S0461,Neha Joshi,Female,21,5.64,7.43,82.26,79.9,61.5,Group study
+S0078,Aman Gill,Female,18,3.16,4.12,95.5,85.51,46.92,Coaching
+S0269,Diya Kapoor,Female,18,0.65,9.27,85.57,34.1,15.84,Group study
+S0930,Aarav Sharma,Female,23,9.49,7.36,66.23,54.49,81.92,Group study
+S0124,Neha Joshi,Female,22,8.85,4.38,85.34,94.62,87.02,Self-study
+S0298,Rahul Singh,Female,22,3.46,8.24,,38.64,30.29,Group study
+S0882,Sneha Kumar,Male,21,0.92,6.13,55.48,33.19,42.28,Mixed
+S0096,Isha Mehta,Female,17,3.92,8.79,79.54,27.68,47.12,Coaching
+S0734,Diya Kapoor,Male,17,8.49,7.18,77.32,73.8,75.7,Mixed
+S0012,Kavya Menon,Female,20,6.44,8.05,91.33,30.82,57.9,Mixed
+S0115,Aarav Sharma,Female,17,6.21,7.86,92.68,89.39,51.45,Mixed
+S0844,Nikhil Bose,Female,21,5.49,8.19,71.74,54.28,52.98,Group study
+S0429,Rahul Singh,Female,17,5.6,7.47,51.05,48.07,absent,Self-study
+S0258,Sahil Khan,Female,22,8.61,6.22,73.67,59.28,999,Coaching
+S0732,Isha Mehta,Male,19,5.94,8.21,61.74,45.18,64.87,Group study
+S0950,Sahil Khan,Female,21,4.95,7.15,53.53,77.74,46.71,Online
+S0765,Arjun Patel,Male,18,60,6.41,62.1,90.38,83.16,Mixed
+S0353,Isha Mehta,Male,18,1.17,6.11,45.71,73.57,N/A,Self-study
+S0986,Ananya Gupta,Female,18,6.46,9.31,91.56,93.47,77.71,Mixed
+S0774,Karan Das,Male,22,2.36,5.32,47.64,71.05,43.59,Mixed
+S0956,Aman Gill,Female,23,4.59,4.46,79.7,79.15,43.35,Online
+S0691,Sahil Khan,Female,20,9.84,5.14,92.86,75.57,92.94,Self-study
+S0923,Isha Mehta,Female,17,5.52,8.02,80.05,80.47,110,Self-study
+S0791,Ananya Gupta,Male,23,7.7,5.02,88.81,82.71,69.67,Mixed
+S0532,Kavya Menon,Male,17,4.66,,92.2,90.26,63.19,Group study
+S0868,Neha Joshi,Male,17,8.46,7.48,72.12,67.4,83.54,Group study
+S0170,Diya Kapoor,Female,19,3.79,6.72,67.26,61.28,37.05,Mixed
+S0240,Sneha Kumar,Male,19,4.89,4.44,99.02,34.8,52.98,Self-study
+S0278,Riya Sinha,Female,17,7.09,6.6,50.07,94.96,53.25,Self-study
+S0161,Neha Joshi,Female,22,3.53,8.32,98.04,26.13,35.98,Coaching
+S0074,Meera Iyer,Female,19,8.7,7.06,absent,91.52,77.78,Online
+S0530,Kavya Menon,Female,20,1.62,4.95,62.87,71.51,28.09,Mixed
+S0063,Isha Mehta,Female,twenty,7.57,6.01,74.81,65.6,72.21,Mixed
+S0762,Meera Iyer,Female,22,3.2,8.1,71.02,75.64,34.01,Self-study
+S0493,Vikram Reddy,Female,19,9.45,5.09,86.74,74.85,84.76,Self-study
+S0741,Arjun Patel,Female,19,0.83,5.62,51.9,35.58,17.09,Mixed
+S0751,Isha Mehta,Female,20,8.71,5.65,57.59,88.34,58.67,Coaching
+S0742,Ananya Gupta,Male,19,0.61,9.11,83.09,46.84,28.51,Online
+S0831,Aarav Sharma,Female,18,8.53,9.9,90.33,42.47,61.31,Mixed
+S0796,Nikhil Bose,Male,20,7.74,6.39,49.53,64.73,85.9,Group study
+S0048,Ananya Gupta,m,17,3.17,6.17,45.33,50.6,55.17,Mixed
+S0763,Arjun Patel,Male,23,6.55,4.64,89.26,81.91,57.91,Online
+S0592,Sahil Khan,Male,17,8.71,6.46,47.36,53.61,68.5,Self-study
+S0808,Sahil Khan,Female,18,4.76,8.04,80.58,93.18,59.22,Self-study
+S0992,Ananya Gupta,Male,19,9.17,5.86,94.19,76.72,71.01,Online
+S0506,Aditya Rao,Male,19,9.22,7.87,86.38,64.75,69.96,Online
+S0021,Rohan Nair,Female,20,,9.21,67.99,29.13,92.05,Group study
+S0969,Kavya Menon,Female,19,6.34,9.72,99.1,80.81,72.28,Self-study
+S0425,Aman Gill,Male,17,5.99,7.79,95.77,48.37,43.14,Mixed
+S0653,Riya Sinha,Male,19,9.97,6.33,63.81,68.0,81.29,Mixed
+S0193,Pooja Shah,Female,18,4.32,7.8,77.44,83.98,50.03,Mixed
+S0643,Aarav Sharma,Female,22,8.42,9.99,77.2,78.24,87.81,Group study
+S0216,Ananya Gupta,Female,19,7.66,6.0,84.05,93.08,91.3,Group study
+S0245,Vikram Reddy,Male,17,7.61,8.56,55.97,45.43,70.91,Online
+S0364,Diya Kapoor,Male,22,6.54,4.04,75.31,37.24,71.78,Mixed
+S0060,Priya Verma,Female,21,9.41,9.45,64.18,69.42,63.74,Coaching
+S0222,Rohan Nair,Female,23,6.16,4.8,71.63,93.05,71.52,Online
+S0177,Meera Iyer,Female,20,7.19,8.82,92.65,54.6,44.17,Self-study
+S0450,Ananya Gupta,Male,22,0.79,7.44,81.41,87.64,41.19,Mixed
+S0056,Pooja Shah,Male,19,5.78,7.0,45.19,58.66,54.94,Mixed
+S0804,Vikram Reddy,Female,24,1.86,8.29,70.8,31.38,31.8,Coaching
+S0255,Ananya Gupta,Female,23,5.58,7.75,79.14,75.45,62.95,Self-study
+S0920,Aditya Rao,Male,19,9.6,7.42,57.2,63.06,100.0,Mixed
+S0386,Aditya Rao,Male,20,4.8,6.25,68.27,43.67,53.52,Online
+S0949,Sahil Khan,Female,19,2.48,6.47,89.51,55.07,42.12,Online
+S0198,Meera Iyer,Male,21,3.69,6.46,68.13,32.99,32.79,Self-study
+S0069,Aditya Rao,Female,17,five hours,6.58,52.1,51.01,66.4,Online
+S0723,Arjun Patel,Female,20,2.54,4.95,59.36,86.87,41.36,Self-study
+S0745,Riya Sinha,Male,22,7.79,5.2,49.8,45.76,68.31,Coaching
+S0714,Arjun Patel,Female,21,6.34,9.54,59.54,86.22,absent,Coaching
+S0169,Rahul Singh,Female,18,8.65,6.09,94.5,61.88,70.57,Coaching
+S0186,Arjun Patel,Female,24,4.15,6.95,-10,68.9,40.19,Self-study
+S0036,Rahul Singh,Female,20,7.81,7.44,50.64,73.99,63.28,Self-study
+S0642,Diya Kapoor,Female,23,8.7,6.87,61.27,26.95,58.41,Online
